@@ -39,23 +39,29 @@ async function fetchFallbackImage(title) {
   return null;
 }
 
-// 🧠 جلب أول 5 سطور من نص المقال
+// 🧩 جلب أول 5 سطور من المقال (بدون نص بديل عند الفشل)
 async function fetchFirstLines(title) {
-  const url = `https://ar.wikipedia.org/api/rest_v1/page/plain/${encodeURIComponent(
+  const url = `https://ar.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=true&titles=${encodeURIComponent(
     title
-  )}`;
+  )}&format=json&origin=*`;
+
   try {
     const res = await fetch(url);
-    const text = await res.text();
-    const lines = text.split("\n").filter((l) => l.trim().length > 0);
+    const data = await res.json();
+    const pages = data?.query?.pages || {};
+    const page = Object.values(pages)[0];
+    const extract = page?.extract?.trim() || "";
+
+    if (!extract) return "";
+
+    const lines = extract.split("\n").filter((l) => l.trim().length > 0);
     return lines.slice(0, 5).join(" ");
-  } catch (err) {
-    console.error("⚠️ خطأ في جلب نص المقال:", title, err.message);
-    return "لم يتم العثور على نص للمقالة.";
+  } catch {
+    return "";
   }
 }
 
-// 🧭 جلب المقالات للتصنيف
+// 🧠 جلب المقالات للتصنيف
 async function fetchCategory(categoryAr, categoryEn) {
   console.log(`\n--- Processing category: ${categoryAr} -> ${categoryEn}.json`);
   const articles = [];
@@ -75,11 +81,15 @@ async function fetchCategory(categoryAr, categoryEn) {
 
     if (pages) {
       for (const page of Object.values(pages)) {
-        if (page.title.startsWith("مستخدم:")) continue; // تجاهل صفحات المستخدمين
+        // ⛔ استبعاد الصفحات غير المفيدة
+        if (!page.title || page.title.startsWith("مستخدم:")) continue;
 
         const description = await fetchFirstLines(page.title);
         const image =
-          page.thumbnail?.source || (await fetchFallbackImage(page.title));
+          page.thumbnail?.source || (await fetchFallbackImage(page.title)) || null;
+
+        // ⚙️ تجاهل المقالات الفارغة (بدون عنوان أو بدون نص)
+        if (!description) continue;
 
         articles.push({
           title: page.title,
@@ -87,16 +97,17 @@ async function fetchCategory(categoryAr, categoryEn) {
           image,
           url: `https://ar.wikipedia.org/wiki/${encodeURIComponent(page.title)}`
         });
-
-        await delay(300); // علشان نقلل الضغط على السيرفر
       }
     }
+
+    await delay(1000);
   } while (continueToken);
 
   console.log(`✅ Saved ${articles.length} articles for ${categoryAr}`);
   const filePath = `${OUTPUT_DIR}/categories/${categoryEn}.json`;
   await fs.outputJson(filePath, articles, { spaces: 2 });
 }
+
 
 // 🌟 المقالة المختارة لليوم (بنفس المنهج)
 async function fetchFeaturedArticle() {
@@ -146,3 +157,4 @@ async function fetchFeaturedArticle() {
   await fetchFeaturedArticle();
   console.log("✅ All Wikipedia data fetched successfully!");
 })();
+
