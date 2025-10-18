@@ -82,30 +82,39 @@ async function fetchCategory(categoryAr, categoryEn) {
   await fs.outputJson(filePath, articles, { spaces: 2 });
 }
 
-// 🧭 المقالة المختارة لليوم
+// 🧭 المقالة المختارة لليوم (تلقائي)
 async function fetchFeaturedArticle() {
-  const url =
-    "https://ar.wikipedia.org/api/rest_v1/feed/featured/2025/10/18"; // يتم تحديثه تلقائيًا عند الجدولة
+  const today = new Date();
+  const year = today.getUTCFullYear();
+  const month = String(today.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(today.getUTCDate()).padStart(2, "0");
+  const url = `https://ar.wikipedia.org/api/rest_v1/feed/featured/${year}/${month}/${day}`;
+
   try {
     const res = await fetch(url);
     const data = await res.json();
     const article = data?.tfa;
+
     if (article) {
       const featured = {
         title: article.title,
         description: article.extract,
         image: article.thumbnail?.source || null,
-        url: article.content_urls?.desktop?.page || null
+        url: article.content_urls?.desktop?.page || null,
+        date: `${year}-${month}-${day}`
       };
       await fs.outputJson(`${OUTPUT_DIR}/featured/article.json`, featured, {
         spaces: 2
       });
-      console.log("🌟 Featured article saved.");
+      console.log(`🌟 Featured article saved for ${year}-${month}-${day}`);
+    } else {
+      console.log("⚠️ No featured article found for today.");
     }
   } catch (err) {
     console.error("⚠️ Error fetching featured article:", err);
   }
 }
+
 
 // 🚀 التنفيذ
 (async () => {
@@ -118,3 +127,4 @@ async function fetchFeaturedArticle() {
   await fetchFeaturedArticle();
   console.log("✅ All done!");
 })();
+
