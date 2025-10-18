@@ -1,0 +1,938 @@
+[
+  {
+    "title": "علم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tango_atom.svg/400px-Tango_atom.svg.png",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "عقل (منطق)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%82%D9%84%20(%D9%85%D9%86%D8%B7%D9%82)\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Disambig_gray_RTL.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%84%20(%D9%85%D9%86%D8%B7%D9%82)"
+  },
+  {
+    "title": "حقول العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AD%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Scientific_Universe.png/500px-The_Scientific_Universe.png",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تفسير",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arbcom_ru_editing.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1"
+  },
+  {
+    "title": "اختراع",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Science_and_Invention_Nov_1928_Cover_2.jpg/500px-Science_and_Invention_Nov_1928_Cover_2.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9"
+  },
+  {
+    "title": "تفكير نقدي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%81%D9%83%D9%8A%D8%B1%20%D9%86%D9%82%D8%AF%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Auguste_Rodin_-_Grubleren_2005-02.jpg/500px-Auguste_Rodin_-_Grubleren_2005-02.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D9%83%D9%8A%D8%B1%20%D9%86%D9%82%D8%AF%D9%8A"
+  },
+  {
+    "title": "جغرافيا حيوية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7%20%D8%AD%D9%8A%D9%88%D9%8A%D8%A9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/L%C3%ADnea_de_Wallace.jpg/500px-L%C3%ADnea_de_Wallace.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7%20%D8%AD%D9%8A%D9%88%D9%8A%D8%A9"
+  },
+  {
+    "title": "علم التوقيت",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Solar_sys.jpg/500px-Solar_sys.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA"
+  },
+  {
+    "title": "علم التصادم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%B5%D8%A7%D8%AF%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Question_book-new.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%B5%D8%A7%D8%AF%D9%85"
+  },
+  {
+    "title": "تفسيرات ميكانيكا الكم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7%20%D8%A7%D9%84%D9%83%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/%D8%A3%D9%8A%D9%82%D9%88%D9%86%D8%A9_%D8%B0%D8%B1%D8%A9_65.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7%20%D8%A7%D9%84%D9%83%D9%85"
+  },
+  {
+    "title": "علم الجراثيم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AB%D9%8A%D9%85\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Agar_plate_with_colonies.jpg/500px-Agar_plate_with_colonies.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AB%D9%8A%D9%85"
+  },
+  {
+    "title": "علم الاختلاج",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%AC\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%AC"
+  },
+  {
+    "title": "المنهج المقارن",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%86\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arwikify.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%86"
+  },
+  {
+    "title": "توقع",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%88%D9%82%D8%B9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Disambig_gray_RTL.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%82%D8%B9"
+  },
+  {
+    "title": "الزمن الخطي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D8%B2%D9%85%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Question_book-new.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D9%85%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D9%8A"
+  },
+  {
+    "title": "آلة اختبارات عامة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A2%D9%84%D8%A9%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%A7%D9%85%D8%A9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Inspekt_desk_50kN_IMGP8563.jpg/500px-Inspekt_desk_50kN_IMGP8563.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D8%A9%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+    "title": "علم الآلات الروحانية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A%D8%A9"
+  },
+  {
+    "title": "علم التعابي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%A8%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%A8%D9%8A"
+  },
+  {
+    "title": "صناعة (اصطلاح)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9%20(%D8%A7%D8%B5%D8%B7%D9%84%D8%A7%D8%AD)\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Disambig_gray_RTL.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9%20(%D8%A7%D8%B5%D8%B7%D9%84%D8%A7%D8%AD)"
+  },
+  {
+    "title": "تصميم تجسيدي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%AA%D8%AC%D8%B3%D9%8A%D8%AF%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Paris_2010_-_Le_Penseur.jpg/500px-Paris_2010_-_Le_Penseur.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%AA%D8%AC%D8%B3%D9%8A%D8%AF%D9%8A"
+  },
+  {
+    "title": "علم السيميا",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B3%D9%8A%D9%85%D9%8A%D8%A7\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Disambig_gray_RTL.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B3%D9%8A%D9%85%D9%8A%D8%A7"
+  },
+  {
+    "title": "جائزة روجر ريفيل",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%B1%D9%88%D8%AC%D8%B1%20%D8%B1%D9%8A%D9%81%D9%8A%D9%84\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%B1%D9%88%D8%AC%D8%B1%20%D8%B1%D9%8A%D9%81%D9%8A%D9%84"
+  },
+  {
+    "title": "النفايات القابلة للتحلل الحيوي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%AA%D8%AD%D9%84%D9%84%20%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kliko.JPG/500px-Kliko.JPG",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%AA%D8%AD%D9%84%D9%84%20%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A"
+  },
+  {
+    "title": "إعادة تدوير القطن",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AA%D8%AF%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D9%86\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AA%D8%AF%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D9%86"
+  },
+  {
+    "title": "توليد الموجات الزلزالية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%88%D9%84%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D8%A7%D9%84%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Question_book-new.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D8%A7%D9%84%D9%8A%D8%A9"
+  },
+  {
+    "title": "سوء استخدام العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B3%D9%88%D8%A1%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Piltdown_man.jpg/500px-Piltdown_man.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%A1%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "جوسان",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D9%88%D8%B3%D8%A7%D9%86\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Azurite-malachite_on_gossan_%28Morenci_Mine%2C_Arizona%2C_USA%29_%2827890565095%29.jpg/500px-Azurite-malachite_on_gossan_%28Morenci_Mine%2C_Arizona%2C_USA%29_%2827890565095%29.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%B3%D8%A7%D9%86"
+  },
+  {
+    "title": "المذهب الطبيعي البيولوجي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A8%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%20%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Brain_chrischan.jpg/500px-Brain_chrischan.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A8%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%20%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A"
+  },
+  {
+    "title": "تأثير باتش",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%20%D8%A8%D8%A7%D8%AA%D8%B4\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%20%D8%A8%D8%A7%D8%AA%D8%B4"
+  },
+  {
+    "title": "حبوب مجهولة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AD%D8%A8%D9%88%D8%A8%20%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D9%88%D8%A8%20%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A9"
+  },
+  {
+    "title": "تقويم الأورومو",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D9%82%D9%88%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D9%85%D9%88\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Question_book-new.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%88%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D9%85%D9%88"
+  },
+  {
+    "title": "الرقابة على تيك توك",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83"
+  },
+  {
+    "title": "الهيلوزية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D9%87%D9%8A%D9%84%D9%88%D8%B2%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%8A%D9%84%D9%88%D8%B2%D9%8A%D8%A9"
+  },
+  {
+    "title": "جائزة التقنية الأكاديمية والعلمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kass_academy_award_photo.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "جائزة الأوسكار الشرفية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%81%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arbcom_ru_editing.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%81%D9%8A%D8%A9"
+  },
+  {
+    "title": "النموذج العالمي للزلازل",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%20%D9%84%D9%84%D8%B2%D9%84%D8%A7%D8%B2%D9%84\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%20%D9%84%D9%84%D8%B2%D9%84%D8%A7%D8%B2%D9%84"
+  },
+  {
+    "title": "الشكل الحقيقي (الطاوية)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D8%B4%D9%83%D9%84%20%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A%20(%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%8A%D8%A9)\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/True_Form_Charts_and_the_Daoist_Visuality_-_Shih-Shan_Susan_Huang.jpg/500px-True_Form_Charts_and_the_Daoist_Visuality_-_Shih-Shan_Susan_Huang.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D9%83%D9%84%20%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A%20(%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%8A%D8%A9)"
+  },
+  {
+    "title": "تاريخ الرادار ذو الفتحة الاصطناعية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1%20%D8%B0%D9%88%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1%20%D8%B0%D9%88%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D8%A9"
+  },
+  {
+    "title": "جديده إسلر",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AC%D8%AF%D9%8A%D8%AF%D9%87%20%D8%A5%D8%B3%D9%84%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%AF%D9%8A%D8%AF%D9%87%20%D8%A5%D8%B3%D9%84%D8%B1"
+  },
+  {
+    "title": "آنا كاترونا",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A2%D9%86%D8%A7%20%D9%83%D8%A7%D8%AA%D8%B1%D9%88%D9%86%D8%A7\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arwikify.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%20%D9%83%D8%A7%D8%AA%D8%B1%D9%88%D9%86%D8%A7"
+  },
+  {
+    "title": "الدور المرضي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%20%D8%A7%D9%84%D9%85%D8%B1%D8%B6%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/500px-Social_Network_Diagram_%28segment%29.svg.png",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%20%D8%A7%D9%84%D9%85%D8%B1%D8%B6%D9%8A"
+  },
+  {
+    "title": "رعاية متكاملة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9%20%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9%20%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9"
+  },
+  {
+    "title": "قالب:جغرافي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Terra_globe_icon_light.png",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A"
+  },
+  {
+    "title": "دعم اتخاذ قرار العلاج",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AF%D8%B9%D9%85%20%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AF%D8%B9%D9%85%20%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC"
+  },
+  {
+    "title": "ظاهرة التسارع الإقليمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B8%D8%A7%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9%20%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B8%D8%A7%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9%20%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "الأطباء المشاهير",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1"
+  },
+  {
+    "title": "قالب:خبير في علم الخرائطية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AE%D8%A8%D9%8A%D8%B1%20%D9%81%D9%8A%20%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Al-Idrisi's_world_map.JPG",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AE%D8%A8%D9%8A%D8%B1%20%D9%81%D9%8A%20%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7%D9%8A%D8%A9"
+  },
+  {
+    "title": "قالب:خبير في نظم المعلومات الجغرافية والاستشعار عن بعد",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AE%D8%A8%D9%8A%D8%B1%20%D9%81%D9%8A%20%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%A8%D8%B9%D8%AF\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Voronoi_centerlines_skeleton.gif",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8%3A%D8%AE%D8%A8%D9%8A%D8%B1%20%D9%81%D9%8A%20%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%A8%D8%B9%D8%AF"
+  },
+  {
+    "title": "اولمويدس ديرميستويدس",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A7%D9%88%D9%84%D9%85%D9%88%D9%8A%D8%AF%D8%B3%20%D8%AF%D9%8A%D8%B1%D9%85%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%AF%D8%B3\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%88%D9%84%D9%85%D9%88%D9%8A%D8%AF%D8%B3%20%D8%AF%D9%8A%D8%B1%D9%85%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%AF%D8%B3"
+  },
+  {
+    "title": "علم المنهج",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Metodolog%C3%ADa.jpg/500px-Metodolog%C3%ADa.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC"
+  },
+  {
+    "title": "ميكانيكا",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Al-jazari_water_device.jpg/500px-Al-jazari_water_device.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7"
+  },
+  {
+    "title": "بوابة:علوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9%3A%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9%3A%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "علم شكل الأرض",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%B4%D9%83%D9%84%20%D8%A7%D9%84%D8%A3%D8%B1%D8%B6\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Glacial_landscape.svg/400px-Glacial_landscape.svg.png",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%B4%D9%83%D9%84%20%D8%A7%D9%84%D8%A3%D8%B1%D8%B6"
+  },
+  {
+    "title": "تصنيف:علوم حسب مجال البحث",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D9%85%D8%AC%D8%A7%D9%84%20%D8%A7%D9%84%D8%A8%D8%AD%D8%AB\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wikinews-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D9%85%D8%AC%D8%A7%D9%84%20%D8%A7%D9%84%D8%A8%D8%AD%D8%AB"
+  },
+  {
+    "title": "تصنيف:علوم حسب درجة القبول",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wikinews-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84"
+  },
+  {
+    "title": "تصنيف:علوم حسب النمط",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D9%86%D9%85%D8%B7\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wikinews-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D9%86%D9%85%D8%B7"
+  },
+  {
+    "title": "تصنيف:علوم الأنظمة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Complex_adaptive_system.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9"
+  },
+  {
+    "title": "تصنيف:العلوم والتقنية حسب البلد",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF"
+  },
+  {
+    "title": "فن الأكل",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%81%D9%86%20%D8%A7%D9%84%D8%A3%D9%83%D9%84\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Produits_r%C3%A9gionaux_-_photo_CPPR.jpg/500px-Produits_r%C3%A9gionaux_-_photo_CPPR.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%81%D9%86%20%D8%A7%D9%84%D8%A3%D9%83%D9%84"
+  },
+  {
+    "title": "نظام الوحدات في النسيج",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Thread2.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC"
+  },
+  {
+    "title": "تصنيف:أنظمة تصنيف",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%AA%D8%B5%D9%86%D9%8A%D9%81\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%AA%D8%B5%D9%86%D9%8A%D9%81"
+  },
+  {
+    "title": "تصنيف:إعلام علمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "ليبيدوميات",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%84%D9%8A%D8%A8%D9%8A%D8%AF%D9%88%D9%85%D9%8A%D8%A7%D8%AA\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lipidmove.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D8%A8%D9%8A%D8%AF%D9%88%D9%85%D9%8A%D8%A7%D8%AA"
+  },
+  {
+    "title": "علوم عقلية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%88%D9%85%20%D8%B9%D9%82%D9%84%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Question_book-new.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%88%D9%85%20%D8%B9%D9%82%D9%84%D9%8A%D8%A9"
+  },
+  {
+    "title": "هايبرون",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D9%88%D9%86\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A_%D9%84%D9%84%D8%AC%D8%B3%D9%8A%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A9.svg/500px-%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A_%D9%84%D9%84%D8%AC%D8%B3%D9%8A%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A9.svg.png",
+    "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D9%88%D9%86"
+  },
+  {
+    "title": "علم الوضع",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%88%D8%B6%D8%B9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Test_Template_Info-Icon_-_Version_(2).svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%88%D8%B6%D8%B9"
+  },
+  {
+    "title": "تصنيف:أعمال علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wikinews-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "قائمة أسماء العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:إعلام في العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:أدوات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Twemoji_270f.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "قانون علمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Scientific_law_versus_Scientific_theories-ar.png/500px-Scientific_law_versus_Scientific_theories-ar.png",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "علم مبادئ الشعر",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1"
+  },
+  {
+    "title": "علم خواص الأقاليم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%AE%D9%88%D8%A7%D8%B5%20%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%AE%D9%88%D8%A7%D8%B5%20%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85"
+  },
+  {
+    "title": "تصنيف:أعمال عن العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Confusion_grey.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "علم وقائع الأمم ورسومهم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D9%88%D9%82%D8%A7%D8%A6%D8%B9%20%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D9%88%D8%B1%D8%B3%D9%88%D9%85%D9%87%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D9%88%D9%82%D8%A7%D8%A6%D8%B9%20%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D9%88%D8%B1%D8%B3%D9%88%D9%85%D9%87%D9%85"
+  },
+  {
+    "title": "علم ترتيب العساكر",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%20%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D9%83%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%20%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D9%83%D8%B1"
+  },
+  {
+    "title": "علم قود العساكر",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D9%83%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D9%83%D8%B1"
+  },
+  {
+    "title": "علم مسالك البلدان والأمصار",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D9%85%D8%B3%D8%A7%D9%84%D9%83%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%A3%D9%85%D8%B5%D8%A7%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D9%85%D8%B3%D8%A7%D9%84%D9%83%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%A3%D9%85%D8%B5%D8%A7%D8%B1"
+  },
+  {
+    "title": "علم اليوم والليلة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9"
+  },
+  {
+    "title": "قانون لابلاس",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D9%84%D8%A7%D8%A8%D9%84%D8%A7%D8%B3\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D9%84%D8%A7%D8%A8%D9%84%D8%A7%D8%B3"
+  },
+  {
+    "title": "تصنيف:الزمن في العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B2%D9%85%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B2%D9%85%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تصنيف:استكشاف علمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81%20%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81%20%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "موضوع (علوم)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D9%88%D8%B6%D9%88%D8%B9%20(%D8%B9%D9%84%D9%88%D9%85)\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Disambig_gray_RTL.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B6%D9%88%D8%B9%20(%D8%B9%D9%84%D9%88%D9%85)"
+  },
+  {
+    "title": "معهد الفلسفة (الأكاديمية الروسية للعلوم)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9%20(%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9%20%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85)\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Institute_of_Philosophy_of_the_Russian_Academy_of_Sciences_%2CMoscow%2C_Russia_%2839640686120%29.jpg/500px-Institute_of_Philosophy_of_the_Russian_Academy_of_Sciences_%2CMoscow%2C_Russia_%2839640686120%29.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9%20(%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9%20%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85)"
+  },
+  {
+    "title": "معرض العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D8%B9%D8%B1%D8%B6%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Science_fair_exhibit_butterflies.jpg/500px-Science_fair_exhibit_butterflies.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%B1%D8%B6%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "قائمة الحروف المستخدمة في الرياضيات والعلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D9%81%20%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/N_write.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D9%81%20%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "قانون بقاء الطاقة صور تحولات الطاقة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A8%D9%82%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9%20%D8%B5%D9%88%D8%B1%20%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A8%D9%82%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9%20%D8%B5%D9%88%D8%B1%20%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9"
+  },
+  {
+    "title": "ماذا لو؟ إجابات علمية جادة لأسئلة افتراضية سخيفة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D8%A7%D8%B0%D8%A7%20%D9%84%D9%88%D8%9F%20%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9%20%D8%AC%D8%A7%D8%AF%D8%A9%20%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9%20%D8%B3%D8%AE%D9%8A%D9%81%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B0%D8%A7%20%D9%84%D9%88%D8%9F%20%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9%20%D8%AC%D8%A7%D8%AF%D8%A9%20%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9%20%D8%B3%D8%AE%D9%8A%D9%81%D8%A9"
+  },
+  {
+    "title": "قانون مبادرة الكم الوطنية (الولايات المتحدة)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%85%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9%20(%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9)\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/500px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%85%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9%20(%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9)"
+  },
+  {
+    "title": "علوم الصحة الرياضية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%B5%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Info_Simple.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%B5%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9"
+  },
+  {
+    "title": "ماريا اليهودية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D8%A7%D8%B1%D9%8A%D8%A7%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A%D8%A9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mary_the_jewess_by_Michael_Maier.jpg/500px-Mary_the_jewess_by_Michael_Maier.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%8A%D8%A7%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A%D8%A9"
+  },
+  {
+    "title": "عن الطبيعة البشرية (كتاب)",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%B9%D9%86%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9%20(%D9%83%D8%AA%D8%A7%D8%A8)\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/N_write.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%86%20%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9%20(%D9%83%D8%AA%D8%A7%D8%A8)"
+  },
+  {
+    "title": "يي فو توان",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%8A%D9%8A%20%D9%81%D9%88%20%D8%AA%D9%88%D8%A7%D9%86\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yi-Fu_Tuan-Festival_international_de_g%C3%A9ographie_2012_%281%29.jpg/500px-Yi-Fu_Tuan-Festival_international_de_g%C3%A9ographie_2012_%281%29.jpg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%8A%D9%8A%20%D9%81%D9%88%20%D8%AA%D9%88%D8%A7%D9%86"
+  },
+  {
+    "title": "مكتب القوى العاملة الصحية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9"
+  },
+  {
+    "title": "نموذج دونابيديان",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%AF%D9%88%D9%86%D8%A7%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7%D9%86\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%AF%D9%88%D9%86%D8%A7%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7%D9%86"
+  },
+  {
+    "title": "نموذج الامتياز الاجتماعي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A"
+  },
+  {
+    "title": "قاعدة بيانات السرطان الكونية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A%D8%A9\"}",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CDKN2A_COSMIC_histogram.png/500px-CDKN2A_COSMIC_histogram.png",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:أشخاص في العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "مستضد نووي لفيروس إبشتاين بار 2",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D9%85%D8%B3%D8%AA%D8%B6%D8%AF%20%D9%86%D9%88%D9%88%D9%8A%20%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%20%D8%A5%D8%A8%D8%B4%D8%AA%D8%A7%D9%8A%D9%86%20%D8%A8%D8%A7%D8%B1%202\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Arrows-orphan.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%B6%D8%AF%20%D9%86%D9%88%D9%88%D9%8A%20%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%20%D8%A5%D8%A8%D8%B4%D8%AA%D8%A7%D9%8A%D9%86%20%D8%A8%D8%A7%D8%B1%202"
+  },
+  {
+    "title": "تصنيف:بذرة علوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B0%D8%B1%D8%A9%20%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiki_letter_s.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B0%D8%B1%D8%A9%20%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:علماء",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%85%D8%A7%D8%A1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%85%D8%A7%D8%A1"
+  },
+  {
+    "title": "تصنيف:مادة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%A7%D8%AF%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%A7%D8%AF%D8%A9"
+  },
+  {
+    "title": "تصنيف:تاريخ العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:قياسات",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Circle-icons-physics-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA"
+  },
+  {
+    "title": "تصنيف:فلسفة العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%84%D8%B3%D9%81%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%84%D8%B3%D9%81%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:علوم حاسوبية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Nuvola_apps_edu_mathematics-ar.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:مجتمعات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:علوم زائفة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%B2%D8%A7%D8%A6%D9%81%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Astrol%C3%A1bio.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%B2%D8%A7%D8%A6%D9%81%D8%A9"
+  },
+  {
+    "title": "تصنيف:درجات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تاريخ طبيعي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A"
+  },
+  {
+    "title": "تصنيف:تصنيف علمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B5%D9%86%D9%8A%D9%81%20%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/%D8%A3%D9%8A%D9%82%D9%88%D9%86%D8%A9_%D8%AE%D9%84%D9%8A%D8%A9.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B5%D9%86%D9%8A%D9%81%20%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "تصنيف:تجارب علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:المنهج العلمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "تصنيف:كتب علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%83%D8%AA%D8%A8%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%83%D8%AA%D8%A8%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:جوائز علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AC%D9%88%D8%A7%D8%A6%D8%B2%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AC%D9%88%D8%A7%D8%A6%D8%B2%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:حقول متداخلة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AD%D9%82%D9%88%D9%84%20%D9%85%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AD%D9%82%D9%88%D9%84%20%D9%85%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D8%A9"
+  },
+  {
+    "title": "تصنيف:قوائم علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%88%D8%A7%D8%A6%D9%85%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%88%D8%A7%D8%A6%D9%85%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:مصطلحات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:العلوم في المجتمع",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9"
+  },
+  {
+    "title": "تصنيف:ظواهر",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B8%D9%88%D8%A7%D9%87%D8%B1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B8%D9%88%D8%A7%D9%87%D8%B1"
+  },
+  {
+    "title": "تصنيف:بوابات علوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Information_icon4.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:بحث علمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "تصنيف:علوم دينية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:علوم مالية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%85%D8%A7%D9%84%D9%8A%D8%A9\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%85%D8%A7%D9%84%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تجريبية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:دراسات العلوم والتقانة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Astrol%C3%A1bio.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D8%A9"
+  },
+  {
+    "title": "تصنيف:برمجيات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تصنيف الأحياء",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B5%D9%86%D9%8A%D9%81%20%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B5%D9%86%D9%8A%D9%81%20%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1"
+  },
+  {
+    "title": "تصنيف:فقه اللغة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%82%D9%87%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/P_literature.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%82%D9%87%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9"
+  },
+  {
+    "title": "تصنيف:العلوم والتقنية حسب الموقع",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Circle-icons-gear.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9"
+  },
+  {
+    "title": "تصنيف:بوابة علوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D9%88%D8%A7%D8%A8%D8%A9%20%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Information_icon4.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D9%88%D8%A7%D8%A8%D8%A9%20%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:صور حسب التخصص العلمي",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B5%D9%88%D8%B1%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B5%D9%88%D8%B1%20%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A"
+  },
+  {
+    "title": "تصنيف:تخصصات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:علوم مفتوحة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9"
+  },
+  {
+    "title": "تصنيف:مسائل علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:مبان علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%A8%D8%A7%D9%86%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/P_Architecture.png",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%A8%D8%A7%D9%86%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:فلسفة طبيعية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%84%D8%B3%D9%81%D8%A9%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Astrol%C3%A1bio.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%81%D9%84%D8%B3%D9%81%D8%A9%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تعليم العلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B9%D9%84%D9%8A%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%B9%D9%84%D9%8A%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:المرأة والعلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Symbol_venus.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تصنيف:علوم وتقانة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%AA%D9%82%D8%A7%D9%86%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Circle-icons-gear.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%88%D8%AA%D9%82%D8%A7%D9%86%D8%A9"
+  },
+  {
+    "title": "تصنيف:قوانين علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Nuvola_apps_edu_science.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تخمينات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AE%D9%85%D9%8A%D9%86%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AE%D9%85%D9%8A%D9%86%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:جمعيات أو منظمات لها علاقة بالعلوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%88%20%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA%20%D9%84%D9%87%D8%A7%20%D8%B9%D9%84%D8%A7%D9%82%D8%A9%20%D8%A8%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%88%20%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA%20%D9%84%D9%87%D8%A7%20%D8%B9%D9%84%D8%A7%D9%82%D8%A9%20%D8%A8%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:مسابقات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": null,
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:متنزهات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%AA%D9%86%D8%B2%D9%87%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D8%AA%D9%86%D8%B2%D9%87%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:تحويلات علوم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA%20%D8%B9%D9%84%D9%88%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Information_icon4.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA%20%D8%B9%D9%84%D9%88%D9%85"
+  },
+  {
+    "title": "تصنيف:بذرة عن علم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B0%D8%B1%D8%A9%20%D8%B9%D9%86%20%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Information_icon4.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%A8%D8%B0%D8%B1%D8%A9%20%D8%B9%D9%86%20%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تصنيف:حقول العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AD%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AD%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تصنيف:تقانات الكم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D9%82%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%83%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Emoji_u2753.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%AA%D9%82%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%83%D9%85"
+  },
+  {
+    "title": "تصنيف:هندسة",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%87%D9%86%D8%AF%D8%B3%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Wiktionary-logo-v2.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%87%D9%86%D8%AF%D8%B3%D8%A9"
+  },
+  {
+    "title": "تصنيف:علم المنهج",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC"
+  },
+  {
+    "title": "تصنيف:نظريات",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%86%D8%B8%D8%B1%D9%8A%D8%A7%D8%AA\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%86%D8%B8%D8%B1%D9%8A%D8%A7%D8%AA"
+  },
+  {
+    "title": "تصنيف:علوم هامشية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%87%D8%A7%D9%85%D8%B4%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D8%B9%D9%84%D9%88%D9%85%20%D9%87%D8%A7%D9%85%D8%B4%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:منظمات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  },
+  {
+    "title": "تصنيف:مهن العلم",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D9%87%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%85\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Commons-logo.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%85%D9%87%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%85"
+  },
+  {
+    "title": "تصنيف:نظريات علمية",
+    "description": "{\"type\":\"https://mediawiki.org/wiki/HyperSwitch/errors/not_found#route\",\"title\":\"Not found.\",\"method\":\"get\",\"uri\":\"/ar.wikipedia.org/v1/page/plain/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%86%D8%B8%D8%B1%D9%8A%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9\"}",
+    "image": "https://ar.wikipedia.org/wiki/Special:FilePath/Sciences_exactes.svg",
+    "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81%3A%D9%86%D8%B8%D8%B1%D9%8A%D8%A7%D8%AA%20%D8%B9%D9%84%D9%85%D9%8A%D8%A9"
+  }
+]
