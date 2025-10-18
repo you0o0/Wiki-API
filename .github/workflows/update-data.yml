@@ -1,34 +1,33 @@
-name: Update Wikipedia Data
+name: Fetch Wikipedia Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # ⏰ كل 24 ساعة
+    - cron: "0 0 * * *" # يوميًا الساعة 12 منتصف الليل UTC
   workflow_dispatch:
 
 jobs:
-  fetch:
+  fetch-data:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm install fs-extra node-fetch
 
-      - name: Run fetch script
-        run: npm start
+      - name: Run data fetch script
+        run: node scripts/fetchWikiData.js
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add -A
-          git commit -m "🔄 تحديث بيانات ويكيبيديا تلقائيًا" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          git config --global user.email "github-actions@github.com"
+          git add data/wikipedia
+          git commit -m "🔄 تحديث بيانات ويكيبيديا تلقائيًا" || echo "No changes"
+          git push
