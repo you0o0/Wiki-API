@@ -1,175 +1,115 @@
-import fs from "fs-extra";
+import fs from "fs";
+import path from "path";
 import fetch from "node-fetch";
 
-const BASE_DIR = "data/wikipedia";
-const CATEGORIES_DIR = `${BASE_DIR}/categories`;
-const FEATURED_DIR = `${BASE_DIR}/featured`;
-const ONTHISDAY_DIR = `${BASE_DIR}/onthisday`;
-
-await fs.ensureDir(CATEGORIES_DIR);
-await fs.ensureDir(FEATURED_DIR);
-await fs.ensureDir(ONTHISDAY_DIR);
-
+const BASE_DIR = "./data/wikipedia";
 const CATEGORIES = {
-  "علوم": "Science",
-  "تكنولوجيا": "Technology",
-  "ثقافة": "Culture",
-  "تاريخ": "History",
-  "جغرافيا": "Geography",
-  "رياضة": "Sports",
-  "طب": "Medicine",
-  "صحة_نفسية": "MentalHealth",
-  "بيئة": "Environment",
-  "تغذية": "Nutrition",
-  "سياحة": "Tourism",
+  علوم: "Science",
+  تكنولوجيا: "Technology",
+  ثقافة: "Culture",
+  تاريخ: "History",
+  جغرافيا: "Geography",
+  رياضة: "Sports",
+  طب: "Medicine",
+  "صحة نفسية": "MentalHealth",
+  بيئة: "Environment",
+  تغذية: "Nutrition",
+  سياحة: "Tourism",
 };
 
-// 🧹 استبعاد صفحات المستخدمين والملعب
-function isValidArticle(title) {
-  const invalidPrefixes = [
-    "مستخدم:",
-    "User:",
-    "Wikipedia:",
-    "ملعب:",
-    "Draft:",
-    "Sandbox:",
-  ];
-  return !invalidPrefixes.some((p) => title.startsWith(p));
-}
-
-// 🔍 جلب قائمة المقالات في تصنيف معين
 async function fetchCategoryMembers(category) {
-  let allPages = [];
-  let cont = "";
-  do {
-    const url = `https://ar.wikipedia.org/w/api.php?action=query&format=json&origin=*&list=categorymembers&cmtitle=Category:${encodeURIComponent(
-      category
-    )}&cmlimit=100&cmcontinue=${cont}`;
-    const res = await fetch(url);
-    const data = await res.json();
-
-    const pages = data.query?.categorymembers?.filter((p) =>
-      isValidArticle(p.title)
-    );
-    allPages.push(...pages);
-
-    cont = data.continue?.cmcontinue || "";
-  } while (cont);
-
-  return allPages;
-}
-
-// 🧾 جلب HTML المنسق للمقال
-async function fetchArticleHTML(title) {
-  const url = `https://ar.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(
-    title
-  )}&format=json&origin=*&prop=text|images|revid|displaytitle`;
+  const url = `https://ar.wikipedia.org/w/api.php?action=query&format=json&origin=*&list=categorymembers&cmtitle=تصنيف:${category}&cmlimit=max`;
   const res = await fetch(url);
   const data = await res.json();
+  return data.query?.categorymembers || [];
+}
 
-  const html = data.parse?.text?.["*"] || "";
-  const lastModified = data.parse?.revid || null;
+async function fetchArticleHTML(title) {
+  try {
+    const encoded = encodeURIComponent(title);
+    const url = `https://ar.wikipedia.org/api/rest_v1/page/html/${encoded}`;
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    const html = await res.text();
+    return html;
+  } catch (e) {
+    console.error("❌ HTML Fetch Error:", title, e.message);
+    return null;
+  }
+}
 
-  // جلب أول صورة لو متاحة
-  const imageTitle = data.parse?.images?.[0];
-  const thumbnail = imageTitle
-    ? `https://ar.wikipedia.org/wiki/Special:FilePath/${encodeURIComponent(
-        imageTitle
-      )}`
-    : null;
-
+async function fetchArticleMeta(title) {
+  const encoded = encodeURIComponent(title);
+  const url = `https://ar.wikipedia.org/w/api.php?action=query&prop=pageimages|info|description&format=json&inprop=url&origin=*&titles=${encoded}&pithumbsize=400`;
+  const res = await fetch(url);
+  const data = await res.json();
+  const page = Object.values(data.query.pages)[0];
   return {
-    title: data.parse?.title || title,
-    html,
-    lastModified,
-    thumbnail,
+    title: page.title,
+    description: page.description || "",
+    image: page.thumbnail?.source || "",
+    lastrevid: page.lastrevid || "",
+    url: page.fullurl || "",
   };
 }
 
-// 💾 حفظ بيانات بدون مقارنة (إعادة كتابة كاملة)
-async function saveFile(filePath, data) {
-  await fs.outputJSON(filePath, data, { spaces: 2 });
-  console.log(`  saved (overwritten): ${filePath}`);
-}
+async function processCategory(arName, enFile) {
+  console.log(`\n--- Processing category: ${arName} -> ${enFile}.json`);
+  const members = await fetchCategoryMembers(arName);
+  const validMembers = members.filter(m => !m.title.startsWith("مستخدم:") && !m.title.startsWith("User:"));
+  console.log(`  members: ${validMembers.length}`);
 
-// 🧠 جلب المقالات لتصنيف واحد
-async function processCategory(arabicName, englishFile) {
-  console.log(`\n--- Processing category: ${arabicName} -> ${englishFile}.json`);
-  const members = await fetchCategoryMembers(arabicName);
-  console.log(`  members: ${members.length}`);
+  const results = [];
+  for (const member of validMembers) {
+    const meta = await fetchArticleMeta(member.title);
+    const html = await fetchArticleHTML(member.title);
+    if (!html) continue;
 
-  if (members.length === 0) {
-    console.log("  ⚠️ No members found, skipping.");
-    return;
+    results.push({
+      title: meta.title,
+      description: meta.description,
+      image: meta.image,
+      url: meta.url,
+      lastrevid: meta.lastrevid,
+      html: html, // ✅ المقال بصيغة HTML الجاهزة
+    });
   }
 
-  const articles = [];
-
-  for (let i = 0; i < members.length; i++) {
-    const m = members[i];
-    console.log(`   ↳ [${i + 1}/${members.length}] ${m.title}`);
-    try {
-      const article = await fetchArticleHTML(m.title);
-      articles.push(article);
-      await new Promise((r) => setTimeout(r, 100)); // لتفادي الضغط على API
-    } catch (e) {
-      console.warn(`   ⚠️ Error fetching "${m.title}":`, e.message);
-    }
-  }
-
-  await saveFile(`${CATEGORIES_DIR}/${englishFile}.json`, articles);
+  const outputDir = path.join(BASE_DIR, "categories");
+  fs.mkdirSync(outputDir, { recursive: true });
+  const filePath = path.join(outputDir, `${enFile}.json`);
+  fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
+  console.log(`  ✅ saved: ${filePath}`);
 }
 
-// 🌟 جلب مقالة اليوم المختارة فقط
 async function fetchFeaturedArticle() {
-  const now = new Date();
-  const year = now.getUTCFullYear();
-  const month = String(now.getUTCMonth() + 1).padStart(2, "0");
-  const day = String(now.getUTCDate()).padStart(2, "0");
-
-  const url = `https://ar.wikipedia.org/api/rest_v1/feed/featured/${year}/${month}/${day}`;
+  console.log(`\n--- Fetching Featured Article`);
+  const url = `https://ar.wikipedia.org/api/rest_v1/feed/featured/2025/10/18`;
   const res = await fetch(url);
   const data = await res.json();
+  const article = data.tfa; // فقط المقالة المختارة
+  if (!article) return;
 
-  const article = data?.tfa || null;
-  if (article) {
-    const simplified = {
-      title: article.title,
-      description: article.extract,
-      html: article.content_urls?.desktop?.page
-        ? `<a href="${article.content_urls.desktop.page}">${article.title}</a>`
-        : "",
-      thumbnail: article.thumbnail?.source || null,
-    };
-    await saveFile(`${FEATURED_DIR}/article.json`, simplified);
-    console.log("✅ featured article saved");
-  } else {
-    console.log("⚠️ No featured article found");
+  const featured = {
+    title: article.titles?.normalized,
+    description: article.description,
+    image: article.thumbnail?.source || "",
+    url: article.content_urls?.desktop?.page,
+    html: await fetchArticleHTML(article.titles?.normalized),
+  };
+
+  const outputDir = path.join(BASE_DIR, "featured");
+  fs.mkdirSync(outputDir, { recursive: true });
+  const filePath = path.join(outputDir, "featured.json");
+  fs.writeFileSync(filePath, JSON.stringify(featured, null, 2), "utf-8");
+  console.log(`  ✅ featured saved: ${filePath}`);
+}
+
+(async () => {
+  console.log("🚀 Start fetching Wikipedia data (HTML mode)...");
+  for (const [ar, en] of Object.entries(CATEGORIES)) {
+    await processCategory(ar, en);
   }
-}
-
-// 📅 جلب أحداث اليوم
-async function fetchOnThisDay() {
-  const now = new Date();
-  const month = String(now.getUTCMonth() + 1).padStart(2, "0");
-  const day = String(now.getUTCDate()).padStart(2, "0");
-  const dateStr = `${now.getUTCFullYear()}-${month}-${day}`;
-  const url = `https://ar.wikipedia.org/api/rest_v1/feed/onthisday/all/${month}/${day}`;
-  const res = await fetch(url);
-  const data = await res.json();
-
-  await saveFile(`${ONTHISDAY_DIR}/${dateStr}.json`, data);
-  console.log(`✅ onthisday saved: ${dateStr}`);
-}
-
-// 🚀 تنفيذ كامل
-console.log("Start fetching Wikipedia data...\n");
-
-for (const [ar, en] of Object.entries(CATEGORIES)) {
-  await processCategory(ar, en);
-}
-
-await fetchFeaturedArticle();
-await fetchOnThisDay();
-
-console.log("\n✅ All done.");
+  await fetchFeaturedArticle();
+  console.log("🎉 All done with HTML articles!");
+})();
