@@ -4,14 +4,11 @@ import fetch from "node-fetch";
 const OUTPUT_DIR = "./data/wikipedia";
 const CATEGORIES = {
   علوم: "Science",
-  تكنولوجيا: "Technology",
   ثقافة: "Culture",
   تاريخ: "History",
   جغرافيا: "Geography",
-  رياضة: "Sports",
   طب: "Medicine",
   "صحة نفسية": "MentalHealth",
-  بيئة: "Environment",
   تغذية: "Nutrition",
   سياحة: "Tourism",
 };
@@ -157,4 +154,5 @@ async function fetchFeaturedArticle() {
   await fetchFeaturedArticle();
   console.log("✅ All Wikipedia data fetched successfully!");
 })();
+
 
