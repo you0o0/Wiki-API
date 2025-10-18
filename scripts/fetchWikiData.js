@@ -1,80 +1,120 @@
-import fs from "fs";
-import path from "path";
+import fs from "fs-extra";
 import fetch from "node-fetch";
 
-const BASE_DIR = "./data/wikipedia";
-const CATEGORY_NAME_AR = "جغرافيا"; // ✅ التصنيف المطلوب فقط
-const CATEGORY_FILE_EN = "Geography"; // اسم الملف
+const OUTPUT_DIR = "./data/wikipedia";
+const CATEGORIES = {
+  علوم: "Science",
+  تكنولوجيا: "Technology",
+  ثقافة: "Culture",
+  تاريخ: "History",
+  جغرافيا: "Geography",
+  رياضة: "Sports",
+  طب: "Medicine",
+  "صحة نفسية": "MentalHealth",
+  بيئة: "Environment",
+  تغذية: "Nutrition",
+  سياحة: "Tourism",
+};
 
-async function fetchCategoryMembers(category) {
-  const url = `https://ar.wikipedia.org/w/api.php?action=query&format=json&origin=*&list=categorymembers&cmtitle=تصنيف:${category}&cmlimit=max`;
-  const res = await fetch(url);
-  const data = await res.json();
-  return data.query?.categorymembers || [];
-}
+const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchArticleHTML(title) {
+// 🧩 دالة مساعدة لجلب صورة بديلة من المقالة
+async function fetchFallbackImage(title) {
+  const url = `https://ar.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(
+    title
+  )}&format=json&origin=*`;
   try {
-    const encoded = encodeURIComponent(title);
-    const url = `https://ar.wikipedia.org/api/rest_v1/page/html/${encoded}`;
     const res = await fetch(url);
-    if (!res.ok) return null;
-    const html = await res.text();
-    return html;
-  } catch (e) {
-    console.error("❌ HTML Fetch Error:", title, e.message);
-    return null;
+    const data = await res.json();
+    const images = data?.parse?.images || [];
+    if (images.length > 0) {
+      return `https://ar.wikipedia.org/wiki/Special:FilePath/${encodeURIComponent(
+        images[0]
+      )}`;
+    }
+  } catch (err) {
+    console.error("⚠️ خطأ في جلب الصورة الداخلية:", title, err.message);
+  }
+  return null;
+}
+
+// 🧠 جلب المقالات للتصنيف
+async function fetchCategory(categoryAr, categoryEn) {
+  console.log(`\n--- Processing category: ${categoryAr} -> ${categoryEn}.json`);
+  const articles = [];
+  let continueToken = null;
+
+  do {
+    let url = `https://ar.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=categorymembers&gcmtitle=تصنيف:${encodeURIComponent(
+      categoryAr
+    )}&gcmlimit=50&prop=extracts|pageimages&exintro=true&explaintext=true&piprop=thumbnail&pithumbsize=400`;
+
+    if (continueToken) url += `&gcmcontinue=${encodeURIComponent(continueToken)}`;
+
+    const res = await fetch(url);
+    const data = await res.json();
+    const pages = data?.query?.pages;
+    continueToken = data?.continue?.gcmcontinue;
+
+    if (pages) {
+      for (const page of Object.values(pages)) {
+        if (page.title.startsWith("مستخدم:")) continue; // تجاهل صفحات المستخدمين
+
+        let description =
+          page.extract?.split("\n").slice(0, 4).join(" ") || "لا يوجد وصف متاح.";
+        const image =
+          page.thumbnail?.source || (await fetchFallbackImage(page.title));
+
+        articles.push({
+          title: page.title,
+          description,
+          image,
+          url: `https://ar.wikipedia.org/wiki/${encodeURIComponent(page.title)}`
+        });
+      }
+    }
+
+    await delay(1000);
+  } while (continueToken);
+
+  console.log(`✅ Saved ${articles.length} articles for ${categoryAr}`);
+  const filePath = `${OUTPUT_DIR}/categories/${categoryEn}.json`;
+  await fs.outputJson(filePath, articles, { spaces: 2 });
+}
+
+// 🧭 المقالة المختارة لليوم
+async function fetchFeaturedArticle() {
+  const url =
+    "https://ar.wikipedia.org/api/rest_v1/feed/featured/2025/10/18"; // يتم تحديثه تلقائيًا عند الجدولة
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    const article = data?.tfa;
+    if (article) {
+      const featured = {
+        title: article.title,
+        description: article.extract,
+        image: article.thumbnail?.source || null,
+        url: article.content_urls?.desktop?.page || null
+      };
+      await fs.outputJson(`${OUTPUT_DIR}/featured/article.json`, featured, {
+        spaces: 2
+      });
+      console.log("🌟 Featured article saved.");
+    }
+  } catch (err) {
+    console.error("⚠️ Error fetching featured article:", err);
   }
 }
 
-async function fetchArticleMeta(title) {
-  const encoded = encodeURIComponent(title);
-  const url = `https://ar.wikipedia.org/w/api.php?action=query&prop=pageimages|info|description&format=json&inprop=url&origin=*&titles=${encoded}&pithumbsize=400`;
-  const res = await fetch(url);
-  const data = await res.json();
-  const page = Object.values(data.query.pages)[0];
-  return {
-    title: page.title,
-    description: page.description || "",
-    image: page.thumbnail?.source || "",
-    lastrevid: page.lastrevid || "",
-    url: page.fullurl || "",
-  };
-}
-
-async function processCategory(categoryAr, fileNameEn) {
-  console.log(`\n--- Processing category: ${categoryAr} -> ${fileNameEn}.json`);
-  const members = await fetchCategoryMembers(categoryAr);
-  const validMembers = members.filter(m => !m.title.startsWith("مستخدم:") && !m.title.startsWith("User:"));
-  console.log(`  members: ${validMembers.length}`);
-
-  const results = [];
-  for (const member of validMembers) {
-    const meta = await fetchArticleMeta(member.title);
-    const html = await fetchArticleHTML(member.title);
-    if (!html) continue;
-
-    results.push({
-      title: meta.title,
-      description: meta.description,
-      image: meta.image,
-      url: meta.url,
-      lastrevid: meta.lastrevid,
-      html: html, // ✅ المقال بصيغة HTML الجاهزة
-    });
-  }
-
-  const outputDir = path.join(BASE_DIR, "categories");
-  fs.mkdirSync(outputDir, { recursive: true });
-  const filePath = path.join(outputDir, `${fileNameEn}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
-  console.log(`  ✅ saved: ${filePath}`);
-}
-
+// 🚀 التنفيذ
 (async () => {
-  console.log("🚀 Start fetching Wikipedia data (HTML mode)...");
+  console.log("Start fetching Wikipedia data...");
 
-  await processCategory(CATEGORY_NAME_AR, CATEGORY_FILE_EN);
+  for (const [ar, en] of Object.entries(CATEGORIES)) {
+    await fetchCategory(ar, en);
+  }
 
-  console.log("🎉 Done fetching single category (Geography).");
+  await fetchFeaturedArticle();
+  console.log("✅ All done!");
 })();
