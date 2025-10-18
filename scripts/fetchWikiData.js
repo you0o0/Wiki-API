@@ -86,19 +86,10 @@ async function fetchArticleHTML(title) {
   };
 }
 
-// 💾 حفظ بيانات في JSON فقط لو تغيرت فعلاً
-async function saveIfChanged(filePath, data) {
-  let changed = true;
-  if (await fs.pathExists(filePath)) {
-    const oldData = await fs.readJSON(filePath);
-    changed = JSON.stringify(oldData) !== JSON.stringify(data);
-  }
-  if (changed) {
-    await fs.outputJSON(filePath, data, { spaces: 2 });
-    console.log(`  saved: ${filePath} (changed: true)`);
-  } else {
-    console.log(`  no changes: ${filePath}`);
-  }
+// 💾 حفظ بيانات بدون مقارنة (إعادة كتابة كاملة)
+async function saveFile(filePath, data) {
+  await fs.outputJSON(filePath, data, { spaces: 2 });
+  console.log(`  saved (overwritten): ${filePath}`);
 }
 
 // 🧠 جلب المقالات لتصنيف واحد
@@ -126,7 +117,7 @@ async function processCategory(arabicName, englishFile) {
     }
   }
 
-  await saveIfChanged(`${CATEGORIES_DIR}/${englishFile}.json`, articles);
+  await saveFile(`${CATEGORIES_DIR}/${englishFile}.json`, articles);
 }
 
 // 🌟 جلب مقالة اليوم المختارة فقط
@@ -150,7 +141,7 @@ async function fetchFeaturedArticle() {
         : "",
       thumbnail: article.thumbnail?.source || null,
     };
-    await saveIfChanged(`${FEATURED_DIR}/article.json`, simplified);
+    await saveFile(`${FEATURED_DIR}/article.json`, simplified);
     console.log("✅ featured article saved");
   } else {
     console.log("⚠️ No featured article found");
@@ -167,7 +158,7 @@ async function fetchOnThisDay() {
   const res = await fetch(url);
   const data = await res.json();
 
-  await saveIfChanged(`${ONTHISDAY_DIR}/${dateStr}.json`, data);
+  await saveFile(`${ONTHISDAY_DIR}/${dateStr}.json`, data);
   console.log(`✅ onthisday saved: ${dateStr}`);
 }
 
