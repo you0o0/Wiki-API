@@ -1,0 +1,2568 @@
+{
+  "events": [
+    {
+      "text": "فيضانات في حيدر آباد الهندية، تؤدي لوفاة 81 شخصًا.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "فيضانات_حيدر_آباد_2020",
+          "displaytitle": "<span class=\"mw-page-title-main\">فيضانات حيدر آباد 2020</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q100606487",
+          "titles": {
+            "canonical": "فيضانات_حيدر_آباد_2020",
+            "normalized": "فيضانات حيدر آباد 2020",
+            "display": "<span class=\"mw-page-title-main\">فيضانات حيدر آباد 2020</span>"
+          },
+          "pageid": 7889395,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BOB02_2020-10-12_0136Z.jpg/330px-BOB02_2020-10-12_0136Z.jpg",
+            "width": 320,
+            "height": 428
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BOB02_2020-10-12_0136Z.jpg",
+            "width": 1719,
+            "height": 2299
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "63863128",
+          "tid": "1dea46c5-43b8-11ee-9c1f-f9ad73645fe5",
+          "timestamp": "2023-08-26T02:27:35Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF_2020"
+            }
+          },
+          "extract": "في 14 أكتوبر 2020، تسببت الأمطار الغزيرة الناجمة عن العاصفة أو المنخض الجوي العميق المسمى BOB 02 في حدوث فيضانات مفاجئة في العديد من مناطق حيدر أباد ، مما تسبب في وفاة ما لا يقل عن 81 شخصًا. في 18 أكتوبر 2020، تسبب إعصار آخر في حدوث المزيد من الفيضانات في حيدر أباد، مما أسفر عن مقتل شخصين آخرين.",
+          "extract_html": "<p>في 14 أكتوبر 2020، تسببت الأمطار الغزيرة الناجمة عن العاصفة أو <b>المنخض الجوي</b> <b>العميق المسمى BOB 02</b> في حدوث فيضانات مفاجئة في العديد من مناطق حيدر أباد ، مما تسبب في وفاة ما لا يقل عن 81 شخصًا. في 18 أكتوبر 2020، تسبب إعصار آخر في حدوث المزيد من الفيضانات في حيدر أباد، مما أسفر عن مقتل شخصين آخرين.</p>",
+          "normalizedtitle": "فيضانات حيدر آباد 2020"
+        },
+        {
+          "type": "standard",
+          "title": "حيدر_آباد",
+          "displaytitle": "<span class=\"mw-page-title-main\">حيدر آباد</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1361",
+          "titles": {
+            "canonical": "حيدر_آباد",
+            "normalized": "حيدر آباد",
+            "display": "<span class=\"mw-page-title-main\">حيدر آباد</span>"
+          },
+          "pageid": 249451,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Overzichtskaart_Hyderabad.PNG/330px-Overzichtskaart_Hyderabad.PNG",
+            "width": 320,
+            "height": 389
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Overzichtskaart_Hyderabad.PNG",
+            "width": 1165,
+            "height": 1415
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72082520",
+          "tid": "a749d110-9683-11f0-906a-d29666c1f5a3",
+          "timestamp": "2025-09-21T00:41:04Z",
+          "description": "مدينة في جنوب الهند",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D9%8A%D8%AF%D8%B1_%D8%A2%D8%A8%D8%A7%D8%AF"
+            }
+          },
+          "extract": "حيدر أباد هي عاصمة ولاية تيلانغانا الهنديَّة وأكبر مدنها وعاصمة ولاية أندرا برديش بحكم القانون. تقع المدينة ضمن هضبة الدكن مُتراميَّةً على ضفاف نهر موسي في الشطر الشماليّ من جنوب الهند وتشغل مساحة قدرها 625 كيلومتر مربع. يبلغ متوسط ارتفاع حيدر أباد 542 مترًا عن مستوى سطح البحر حيث تقع المدينة بمعظمها على أراضٍ جبليَّة وتحيط بها بحيرات اصطناعيَّة من أشهرها بحيرة حسين ساغار الواقعة شمال مركزها والتي يسبق وجودها تأسيس المدينة. بلغ عدد سكان حيدر أباد الذين يعيشون ضمن الحدود الإداريَّة للمدينة 6.9 مليون نسمة بحسب تعداد عام 2011، وهو ما يجلعها رابع أكبر مدن الهند من حيث عدد السكان. في حين بلغ عدد سكان المنطقة الحضريَّة 9.7 مليون نسمة ما يجعلها سادس أكبر مناطق البلاد الحضرية اكتظاظًا بالسكان. يبلغ مجموع العائد السنويّ الذي تنتجه المدينة 74 مليار دولار ما يجعلها خامس أكبر تجمُّع اقتصادي حضريّ في الهند.",
+          "extract_html": "<p><b>حيدر أباد</b> هي عاصمة ولاية تيلانغانا الهنديَّة وأكبر مدنها وعاصمة ولاية أندرا برديش بحكم القانون. تقع المدينة ضمن هضبة الدكن مُتراميَّةً على ضفاف نهر موسي في الشطر الشماليّ من جنوب الهند وتشغل مساحة قدرها 625 كيلومتر مربع. يبلغ متوسط ارتفاع حيدر أباد 542 مترًا عن مستوى سطح البحر حيث تقع المدينة بمعظمها على أراضٍ جبليَّة وتحيط بها بحيرات اصطناعيَّة من أشهرها بحيرة حسين ساغار الواقعة شمال مركزها والتي يسبق وجودها تأسيس المدينة. بلغ عدد سكان حيدر أباد الذين يعيشون ضمن الحدود الإداريَّة للمدينة 6.9 مليون نسمة بحسب تعداد عام 2011، وهو ما يجلعها رابع أكبر مدن الهند من حيث عدد السكان. في حين بلغ عدد سكان المنطقة الحضريَّة 9.7 مليون نسمة ما يجعلها سادس أكبر مناطق البلاد الحضرية اكتظاظًا بالسكان. يبلغ مجموع العائد السنويّ الذي تنتجه المدينة 74 مليار دولار ما يجعلها خامس أكبر تجمُّع اقتصادي حضريّ في الهند.</p>",
+          "normalizedtitle": "حيدر آباد"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "البرلمان التُركي يُقر مشروع قرار يمنح دور الإفتاء والعُلماء المُسلمين صلاحية عقد القران بين الأزواج بالبلاد، بعد أن كانت حكرًا على موظفي دوائر شؤون الزواج في البلديات منذ قيام الجُمهُوريَّة سنة 1923م.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "البرلمان_التركي",
+          "displaytitle": "<span class=\"mw-page-title-main\">البرلمان التركي</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q274918",
+          "titles": {
+            "canonical": "البرلمان_التركي",
+            "normalized": "البرلمان التركي",
+            "display": "<span class=\"mw-page-title-main\">البرلمان التركي</span>"
+          },
+          "pageid": 171764,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg/langar-320px-Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg.png",
+            "width": 320,
+            "height": 320
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg/langar-256px-Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg.png",
+            "width": 256,
+            "height": 256
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72262691",
+          "tid": "5a3efcea-aa83-11f0-a7f0-6d5d660bface",
+          "timestamp": "2025-10-16T11:29:18Z",
+          "description": "السلطة التشريعية في تركيا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A"
+            }
+          },
+          "extract": "مجلس الأمة التركي الكبير أو البرلمان التركي هو الهيئة التشريعية الوحيدة المخولة بمناقشة وتعديل الدستور التركي. تأسست الجمعية في أنقرة في 23 أبريل 1920 في خضم حرب الاستقلال التركية. تتكون الجمعية من 600 عضوًا يُنتخبون كل خمس سنوات في 85 دائرة مقسمة حسب المحافظات الإحدى والثمانين، بالإضافة إلى الدوائر الانتخابية الثلاث لإسطنبول والدائرتين لكل من أنقرة وازمير، وذلك بسبب الثقل السكاني لهذه المدن.",
+          "extract_html": "<p><b>مجلس الأمة التركي الكبير</b> أو <b>البرلمان التركي</b> هو الهيئة التشريعية الوحيدة المخولة بمناقشة وتعديل الدستور التركي. تأسست الجمعية في أنقرة في 23 أبريل 1920 في خضم حرب الاستقلال التركية. تتكون الجمعية من 600 عضوًا يُنتخبون كل خمس سنوات في 85 دائرة مقسمة حسب المحافظات الإحدى والثمانين، بالإضافة إلى الدوائر الانتخابية الثلاث لإسطنبول والدائرتين لكل من أنقرة وازمير، وذلك بسبب الثقل السكاني لهذه المدن.</p>",
+          "normalizedtitle": "البرلمان التركي"
+        },
+        {
+          "type": "standard",
+          "title": "الإسلام_في_تركيا",
+          "displaytitle": "<span class=\"mw-page-title-main\">الإسلام في تركيا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2626349",
+          "titles": {
+            "canonical": "الإسلام_في_تركيا",
+            "normalized": "الإسلام في تركيا",
+            "display": "<span class=\"mw-page-title-main\">الإسلام في تركيا</span>"
+          },
+          "pageid": 630527,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Allah1.png",
+            "width": 195,
+            "height": 195
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Allah1.png",
+            "width": 195,
+            "height": 195
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "67702411",
+          "tid": "0519b878-62d2-11ef-a8c6-928f0cc1cbc1",
+          "timestamp": "2024-08-25T11:06:04Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7"
+            }
+          },
+          "extract": "تعتبر جمهورية تركيا إحدى دول العالم الإسلامي وتبلغ نسبة المسلمين في تركيا قرابة 97.8% من الشعب التركي وتتبع الغالبية منهم المذهب السني. ولا ينص الدستور التركي على دين رسمي للدولة التركية، بل يكفل حرية المعتقد والدين للمواطنين الأتراك على النحو الذي يرغبونه دون إكراه أو إلزام.",
+          "extract_html": "<p>تعتبر جمهورية تركيا إحدى دول العالم الإسلامي وتبلغ نسبة المسلمين في تركيا قرابة 97.8% من الشعب التركي وتتبع الغالبية منهم المذهب السني. ولا ينص الدستور التركي على دين رسمي للدولة التركية، بل يكفل حرية المعتقد والدين للمواطنين الأتراك على النحو الذي يرغبونه دون إكراه أو إلزام.</p>",
+          "normalizedtitle": "الإسلام في تركيا"
+        },
+        {
+          "type": "standard",
+          "title": "تركيا",
+          "displaytitle": "<span class=\"mw-page-title-main\">تركيا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q43",
+          "titles": {
+            "canonical": "تركيا",
+            "normalized": "تركيا",
+            "display": "<span class=\"mw-page-title-main\">تركيا</span>"
+          },
+          "pageid": 6994,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langar-330px-Flag_of_Turkey.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langar-1200px-Flag_of_Turkey.svg.png",
+            "width": 1200,
+            "height": 800
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72014204",
+          "tid": "d79bd852-909f-11f0-baa4-434ba92a36e3",
+          "timestamp": "2025-09-13T12:47:44Z",
+          "description": "دولة يقع معظمها في غرب آسيا و جزء منها في جنوب شرق أوروبا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D8%B1%D9%83%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D8%B1%D9%83%D9%8A%D8%A7"
+            }
+          },
+          "extract": "تُرْكِيَا أو تُرْكِيَّة الاِسم الرسمِيّ الجُمْهُورِيَّةُ التُّرْكِيَّةُ هي دولة عابرة للقارات يقع أغلبها في شبه جزيرة الأناضول في غرب آسيا، والجزء الأصغر في شبه جزيرة البلقان في جنوب شرق أوروبا. تراقيا الشرقية، وهي الجزء الأوروبي من تركيا، مفصولة عن الأناضول ببحر مرمرة، ومضيقي البوسفور والدردنيل. إسطنبول، التي تمتد بين أوروبا وآسيا، هي أكبر مدينة في البلاد، بينما أنقرة هي العاصمة. وتحد تركيا من الشمال الغربي اليونان وبلغاريا. ومن الشمال البحر الأسود؛ ومن الشمال الشرقي جورجيا؛ وشرقا أرمينيا، والمستحاطة الأذربيجانية نخجوان وإيران؛ ومن الجنوب الشرقي العراق؛ ومن الجنوب سوريا والبحر الأبيض المتوسط؛ ويطل الغرب على بحر إيجه. ما يقرب من 70 إلى 80 في المائة من مواطني الدولة يُعرفون أنفسهم بأنهم أتراك، في حين أن الأكراد هم أكبر أقلية، ويمثلون ما بين 15 إلى 20 في المائة من السكان.",
+          "extract_html": "<p><b>تُرْكِيَا</b> أو <b>تُرْكِيَّة</b> الاِسم الرسمِيّ <b>الجُمْهُورِيَّةُ التُّرْكِيَّةُ</b> هي دولة عابرة للقارات يقع أغلبها في شبه جزيرة الأناضول في غرب آسيا، والجزء الأصغر في شبه جزيرة البلقان في جنوب شرق أوروبا. تراقيا الشرقية، وهي الجزء الأوروبي من تركيا، مفصولة عن الأناضول ببحر مرمرة، ومضيقي البوسفور والدردنيل. إسطنبول، التي تمتد بين أوروبا وآسيا، هي أكبر مدينة في البلاد، بينما أنقرة هي العاصمة. وتحد تركيا من الشمال الغربي اليونان وبلغاريا. ومن الشمال البحر الأسود؛ ومن الشمال الشرقي جورجيا؛ وشرقا أرمينيا، والمستحاطة الأذربيجانية نخجوان وإيران؛ ومن الجنوب الشرقي العراق؛ ومن الجنوب سوريا والبحر الأبيض المتوسط؛ ويطل الغرب على بحر إيجه. ما يقرب من 70 إلى 80 في المائة من مواطني الدولة يُعرفون أنفسهم بأنهم أتراك، في حين أن الأكراد هم أكبر أقلية، ويمثلون ما بين 15 إلى 20 في المائة من السكان.</p>",
+          "normalizedtitle": "تركيا"
+        },
+        {
+          "type": "standard",
+          "title": "1923",
+          "displaytitle": "<span class=\"mw-page-title-main\">1923</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2169",
+          "titles": {
+            "canonical": "1923",
+            "normalized": "1923",
+            "display": "<span class=\"mw-page-title-main\">1923</span>"
+          },
+          "pageid": 17931,
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71182074",
+          "tid": "437037db-509d-11f0-8907-f438be782db3",
+          "timestamp": "2025-06-24T01:48:02Z",
+          "description": "سنة",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/1923",
+              "revisions": "https://ar.wikipedia.org/wiki/1923?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/1923?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:1923"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/1923",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/1923",
+              "edit": "https://ar.wikipedia.org/wiki/1923?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:1923"
+            }
+          },
+          "extract": "",
+          "extract_html": "",
+          "normalizedtitle": "1923"
+        }
+      ],
+      "year": 2017
+    },
+    {
+      "text": "مقتل العميد في الجيش السوري عصام زهر الدين، خلال المعارك مع تنظيم داعش بانفجار لغم أرضي في دير الزور.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الجيش_العربي_السوري",
+          "displaytitle": "<span class=\"mw-page-title-main\">الجيش العربي السوري</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q849180",
+          "titles": {
+            "canonical": "الجيش_العربي_السوري",
+            "normalized": "الجيش العربي السوري",
+            "display": "<span class=\"mw-page-title-main\">الجيش العربي السوري</span>"
+          },
+          "pageid": 62536,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Syria_Armed_Forces_Emblem.svg/langar-320px-Syria_Armed_Forces_Emblem.svg.png",
+            "width": 320,
+            "height": 267
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Syria_Armed_Forces_Emblem.svg/langar-310px-Syria_Armed_Forces_Emblem.svg.png",
+            "width": 310,
+            "height": 259
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71914338",
+          "tid": "b2948732-86eb-11f0-8736-67e087073dfe",
+          "timestamp": "2025-09-01T04:25:32Z",
+          "description": "القوات المسلحة للجمهورية العربية السورية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A"
+            }
+          },
+          "extract": "القوات المسلحة العربية السورية هي القوات العسكرية في الجمهورية العربية السورية. وتتألف من القوات البرية العربية السورية، والقوات البحرية العربية السورية، والقوات الجوية العربية السورية، وقوات الدفاع الجوي العربية السورية. القائد الأعلى للجيش والقوات المسلحة هو الرئيس السوري ووزير الدفاع منصب نائب القائد الأعلى للجيش والقوات المسلحة.، أما رئيس هيئة الأركان العامة للجيش والقوات المسلحة السورية هو اللواء علي نور الدين النعسان.",
+          "extract_html": "<p><b>القوات المسلحة العربية السورية</b> هي القوات العسكرية في الجمهورية العربية السورية. وتتألف من القوات البرية العربية السورية، والقوات البحرية العربية السورية، والقوات الجوية العربية السورية، وقوات الدفاع الجوي العربية السورية. القائد الأعلى للجيش والقوات المسلحة هو الرئيس السوري ووزير الدفاع منصب نائب القائد الأعلى للجيش والقوات المسلحة.، أما رئيس هيئة الأركان العامة للجيش والقوات المسلحة السورية هو اللواء علي نور الدين النعسان.</p>",
+          "normalizedtitle": "الجيش العربي السوري"
+        },
+        {
+          "type": "standard",
+          "title": "عصام_زهر_الدين",
+          "displaytitle": "<span class=\"mw-page-title-main\">عصام زهر الدين</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q14848098",
+          "titles": {
+            "canonical": "عصام_زهر_الدين",
+            "normalized": "عصام زهر الدين",
+            "display": "<span class=\"mw-page-title-main\">عصام زهر الدين</span>"
+          },
+          "pageid": 1776349,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%AF_%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86.jpg/330px-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%AF_%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86.jpg",
+            "width": 320,
+            "height": 240
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/ar/7/71/%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%AF_%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86.jpg",
+            "width": 400,
+            "height": 300
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71482045",
+          "tid": "9d6d3487-67e0-11f0-ad09-9c2da8f2b508",
+          "timestamp": "2025-07-23T16:18:06Z",
+          "description": "عسكري سوري",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D8%B5%D8%A7%D9%85_%D8%B2%D9%87%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86"
+            }
+          },
+          "extract": "عصام جدعان زهر الدين كان ضابطًا في الحرس الجمهوري السوري برتبة عميد، ينتمي إلى الطائفة الدرزية وهو من محافظة السويداء، وجده لأبيه هو الفريق عبد الكريم زهر الدين وزير الدفاع السوري السابق بحكومة بشير العظمة. كان أباً لخمسة أولاد كلهم يحاربون مع الجيش العربي السوري.",
+          "extract_html": "<p><b>عصام جدعان زهر الدين</b> كان ضابطًا في الحرس الجمهوري السوري برتبة عميد، ينتمي إلى الطائفة الدرزية وهو من محافظة السويداء، وجده لأبيه هو الفريق عبد الكريم زهر الدين وزير الدفاع السوري السابق بحكومة بشير العظمة. كان أباً لخمسة أولاد كلهم يحاربون مع الجيش العربي السوري.</p>",
+          "normalizedtitle": "عصام زهر الدين"
+        },
+        {
+          "type": "standard",
+          "title": "تنظيم_الدولة_الإسلامية_(داعش)",
+          "displaytitle": "<span class=\"mw-page-title-main\">تنظيم الدولة الإسلامية (داعش)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2429253",
+          "titles": {
+            "canonical": "تنظيم_الدولة_الإسلامية_(داعش)",
+            "normalized": "تنظيم الدولة الإسلامية (داعش)",
+            "display": "<span class=\"mw-page-title-main\">تنظيم الدولة الإسلامية (داعش)</span>"
+          },
+          "pageid": 1731057,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/langar-330px-Islamic_State_flag.svg.png",
+            "width": 320,
+            "height": 240
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/langar-1000px-Islamic_State_flag.svg.png",
+            "width": 1000,
+            "height": 750
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71952265",
+          "tid": "9c8c2b8a-8b24-11f0-a419-aaf2ce8329ce",
+          "timestamp": "2025-09-06T13:23:01Z",
+          "description": "مُنَظَّمَةٌ مُسَلَّحَةٌ تَتَّبِعُ الْأَفْكَارَ السَّلَفِيَّةَ الْجِهَادِيَّة",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9_(%D8%AF%D8%A7%D8%B9%D8%B4)"
+            }
+          },
+          "extract": "الدولة الإسلامية او باسمه السابق الدولة الإسلامية في العراق والشام أو باختصار داعش،، هو تنظيم مسلح يتبع الفكر السلفي الجهادي، تأسس في العراق عام 2003 على يد أبو مصعب الزرقاوي تحت اسم «جماعة التوحيد والجهاد» وتطور لاحقاً ليعرف بـ«الدولة الإسلامية في العراق والشام»، أعلن التنظيم قيام «الخلافة الإسلامية» في يونيو 2014، وسيطر على مساحات شاسعة في العراق وسوريا حتى تراجع نفوذه عام 2017. وانتشر نشاطه انتشاراً محدوداً في ليبيا، سيناء، اليمن وافريقيا وباكستان وغيرها. يصنف تنظيماً إرهابياً عند العديد من الدول والمنظمات الدولية، وقد أثار الجدل بسبب العديد من مواقفه الفكرية والسياسية، كوصفه للمقاومة الفلسطينية بـ\"رايات كفرية وان فلسطين ليست قضية المسلمين الاولى\".",
+          "extract_html": "<p><b>الدولة الإسلامية</b> او باسمه السابق <b>الدولة الإسلامية في العراق والشام</b> أو باختصار <b>داعش</b>،، هو تنظيم مسلح يتبع الفكر السلفي الجهادي، تأسس في العراق عام 2003 على يد أبو مصعب الزرقاوي تحت اسم «جماعة التوحيد والجهاد» وتطور لاحقاً ليعرف بـ«<b>الدولة الإسلامية في العراق والشام</b>»، أعلن التنظيم قيام «الخلافة الإسلامية» في يونيو 2014، وسيطر على مساحات شاسعة في العراق وسوريا حتى تراجع نفوذه عام 2017. وانتشر نشاطه انتشاراً محدوداً في ليبيا، سيناء، اليمن وافريقيا وباكستان وغيرها. يصنف تنظيماً إرهابياً عند العديد من الدول والمنظمات الدولية، وقد أثار الجدل بسبب العديد من مواقفه الفكرية والسياسية، كوصفه للمقاومة الفلسطينية بـ\"<i>رايات كفرية وان فلسطين ليست قضية المسلمين الاولى</i>\".</p>",
+          "normalizedtitle": "تنظيم الدولة الإسلامية (داعش)"
+        },
+        {
+          "type": "standard",
+          "title": "لغم",
+          "displaytitle": "<span class=\"mw-page-title-main\">لغم</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1481202",
+          "titles": {
+            "canonical": "لغم",
+            "normalized": "لغم",
+            "display": "<span class=\"mw-page-title-main\">لغم</span>"
+          },
+          "pageid": 54975,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mines_501556_fh000026.jpg/330px-Mines_501556_fh000026.jpg",
+            "width": 320,
+            "height": 300
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mines_501556_fh000026.jpg",
+            "width": 813,
+            "height": 763
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71950703",
+          "tid": "ddc010e7-8b03-11f0-8e51-840d1d1650d9",
+          "timestamp": "2025-09-06T09:28:37Z",
+          "description": "سلاح متفجر ينفجر عند ملامسته أو تحريكه",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D9%85?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%84%D8%BA%D9%85"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%84%D8%BA%D9%85",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%84%D8%BA%D9%85"
+            }
+          },
+          "extract": "الألغام، مُفرده لَغَمٌ من الأسلحة غير الفتاكة التي لها تأثير طويل الأمد على الشعوب بعد انتهاء الحرب بعقود طويلة. فهي تحول دون تطوير المساحات التي بها حقول للألغام وتعرض البشر وثرواتهم الحيوانية لأخطار لا يزول أثرها عبر السنوات.",
+          "extract_html": "<p><b>الألغام</b>، مُفرده <b>لَغَمٌ</b> من الأسلحة غير الفتاكة التي لها تأثير طويل الأمد على الشعوب بعد انتهاء الحرب بعقود طويلة. فهي تحول دون تطوير المساحات التي بها حقول للألغام وتعرض البشر وثرواتهم الحيوانية لأخطار لا يزول أثرها عبر السنوات.</p>",
+          "normalizedtitle": "لغم"
+        },
+        {
+          "type": "standard",
+          "title": "دير_الزور",
+          "displaytitle": "<span class=\"mw-page-title-main\">دير الزور</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q239097",
+          "titles": {
+            "canonical": "دير_الزور",
+            "normalized": "دير الزور",
+            "display": "<span class=\"mw-page-title-main\">دير الزور</span>"
+          },
+          "pageid": 19836,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deir_ez-Zor_collection.jpg/330px-Deir_ez-Zor_collection.jpg",
+            "width": 320,
+            "height": 337
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deir_ez-Zor_collection.jpg",
+            "width": 4112,
+            "height": 4326
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72067782",
+          "tid": "53f24b20-94ee-11f0-b8ae-c82d9223899d",
+          "timestamp": "2025-09-19T00:19:38Z",
+          "description": "دير الزور وتعرف محليًا باسم الدير، مدينة سوريّة تعتبر أكبر مدن الشرق السوري قاطبةً، فضلًا عن كونها مركزًا إداريًا لمحافظة دير الزور. الشرق",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B2%D9%88%D8%B1"
+            }
+          },
+          "extract": "دير الزور وتعرف محليًا باسم الدير، مدينة سوريّة تعتبر أكبر مدن الشرق السوري قاطبةً، فضلًا عن كونها مركزًا إداريًا لمحافظة دير الزور.",
+          "extract_html": "<p><b>دير الزور</b> وتعرف محليًا باسم <b>الدير</b>، مدينة سوريّة تعتبر أكبر مدن الشرق السوري قاطبةً، فضلًا عن كونها مركزًا إداريًا لمحافظة دير الزور.</p>",
+          "normalizedtitle": "دير الزور"
+        }
+      ],
+      "year": 2017
+    },
+    {
+      "text": "بدء المرحلة الأولى من انتخابات مجلس النواب المصري، وسط أنباء عن ضعف الإقبال خاصة الشباب.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الانتخابات_التشريعية_المصرية_2015",
+          "displaytitle": "<span class=\"mw-page-title-main\">الانتخابات التشريعية المصرية 2015</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q627548",
+          "titles": {
+            "canonical": "الانتخابات_التشريعية_المصرية_2015",
+            "normalized": "الانتخابات التشريعية المصرية 2015",
+            "display": "<span class=\"mw-page-title-main\">الانتخابات التشريعية المصرية 2015</span>"
+          },
+          "pageid": 2771203,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/El-Sayyid_el-Badawi.jpg/330px-El-Sayyid_el-Badawi.jpg",
+            "width": 320,
+            "height": 381
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/El-Sayyid_el-Badawi.jpg",
+            "width": 406,
+            "height": 483
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "64065253",
+          "tid": "a5a7920d-4531-11ee-a28d-fe3a5aaf6a57",
+          "timestamp": "2023-08-27T23:30:03Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2015"
+            }
+          },
+          "extract": "انتخابات مجلس النواب المصري 2015 هي أول انتخابات لمجلس النواب المصري بعد إقرار دستور 2014 الذي أقر غرفة واحدة للتشريع هي مجلس النواب. وتقام على مرحلتين في الفترة من 17 أكتوبر حتى 4 ديسمبر 2015. وقد شهدت الانتخابات مقاطعة جُل القوى السياسية المعارضة للسلطة الحاكمة.",
+          "extract_html": "<p><b>انتخابات مجلس النواب المصري 2015</b> هي أول انتخابات لمجلس النواب المصري بعد إقرار دستور 2014 الذي أقر غرفة واحدة للتشريع هي مجلس النواب. وتقام على مرحلتين في الفترة من 17 أكتوبر حتى 4 ديسمبر 2015. وقد شهدت الانتخابات مقاطعة جُل القوى السياسية المعارضة للسلطة الحاكمة.</p>",
+          "normalizedtitle": "الانتخابات التشريعية المصرية 2015"
+        }
+      ],
+      "year": 2015
+    },
+    {
+      "text": "مجلة ساينس العلمية تنشر أبحاثًا حول جمجمة وجدت في جورجيا، تحديدًا في دامنيسي، تدعو إلى التشكيك في تصنيف جنس الإنس (الهومو).",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "ساينس",
+          "displaytitle": "<span class=\"mw-page-title-main\">ساينس</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q192864",
+          "titles": {
+            "canonical": "ساينس",
+            "normalized": "ساينس",
+            "display": "<span class=\"mw-page-title-main\">ساينس</span>"
+          },
+          "pageid": 420145,
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "65247644",
+          "tid": "11f68ebc-82f6-11ee-b97d-42d972812b7a",
+          "timestamp": "2023-11-14T13:59:47Z",
+          "description": "مجلة أكاديمية أمريكية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D8%A7%D9%8A%D9%86%D8%B3"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%86%D8%B3?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D8%A7%D9%8A%D9%86%D8%B3"
+            }
+          },
+          "extract": "ساينس هي دورية علمية تنشرها الجمعية الأمريكية لتقدم العلوم. وبصفة عامة تعتبر من أكثر الدوريات المرموقة في مجال العلوم. وقد أسست من قبل صحفي في نيويورك، جون مايكلز، منذ عام 1880، بدعم مالي من قبل توماس إديسون، ثم من ألكسندر غراهام بيل.\n إمكانية الوصول يمكن الوصول إلى المجلة مباشرة عن طريق الإنترنت, من خلال الموقع الرسمي لها على الشبكة العنكبوتية, فقط من خلال الاشتراك. وللانتقال إلى العناوين الخاصة بالمراكز التي تشترك بهذه المجلة...\nو يمكن للطلاب, 12-K مدرسين, واّخرون ممن يمكنهم الاشتراك بأسعار مخفضة. ولكن منذ عام 1997 فإن الأوراق العلمية التي يتم نشرها فتكون بالمجان فقط بالتسجيل في الموقع وذلك فقظ بعد سنة من تاريخ النشر.",
+          "extract_html": "<p><b>ساينس</b> هي دورية علمية تنشرها الجمعية الأمريكية لتقدم العلوم. وبصفة عامة تعتبر من أكثر الدوريات المرموقة في مجال العلوم. وقد أسست من قبل صحفي في نيويورك، جون مايكلز، منذ عام 1880، بدعم مالي من قبل توماس إديسون، ثم من ألكسندر غراهام بيل.\n<b> إمكانية الوصول</b> يمكن الوصول إلى المجلة مباشرة عن طريق الإنترنت, من خلال الموقع الرسمي لها على الشبكة العنكبوتية, فقط من خلال الاشتراك. وللانتقال إلى العناوين الخاصة بالمراكز التي تشترك بهذه المجلة...\nو يمكن للطلاب, 12-K مدرسين, واّخرون ممن يمكنهم الاشتراك بأسعار مخفضة. ولكن منذ عام 1997 فإن الأوراق العلمية التي يتم نشرها فتكون بالمجان فقط بالتسجيل في الموقع وذلك فقظ بعد سنة من تاريخ النشر.</p>",
+          "normalizedtitle": "ساينس"
+        },
+        {
+          "type": "standard",
+          "title": "إنسان_جورجيا",
+          "displaytitle": "<span class=\"mw-page-title-main\">إنسان جورجيا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q218815",
+          "titles": {
+            "canonical": "إنسان_جورجيا",
+            "normalized": "إنسان جورجيا",
+            "display": "<span class=\"mw-page-title-main\">إنسان جورجيا</span>"
+          },
+          "pageid": 715470,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homo_Georgicus_IMG_2921.JPG/330px-Homo_Georgicus_IMG_2921.JPG",
+            "width": 320,
+            "height": 397
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Homo_Georgicus_IMG_2921.JPG",
+            "width": 2891,
+            "height": 3588
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "69234676",
+          "tid": "b9a2fbcd-ccfe-11ef-aa15-f0582367b912",
+          "timestamp": "2025-01-07T13:53:08Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7"
+            }
+          },
+          "extract": "إنسان جورجيا ، يعتقد بأنه يقع ما بين الإنسان الماهر والإنسان المنتصب. عاش قبل 1.8 مليون سنة مضت، وقد عثر على أول أحافيره في جورجيا عام 1991م وبجوارها أدوات وعظام حيوانية.",
+          "extract_html": "<p><b>إنسان جورجيا</b> ، يعتقد بأنه يقع ما بين الإنسان الماهر والإنسان المنتصب. عاش قبل 1.8 مليون سنة مضت، وقد عثر على أول أحافيره في جورجيا عام 1991م وبجوارها أدوات وعظام حيوانية.</p>",
+          "normalizedtitle": "إنسان جورجيا"
+        },
+        {
+          "type": "standard",
+          "title": "بشراني_(جنس)",
+          "displaytitle": "<span class=\"mw-page-title-main\">بشراني (جنس)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q171283",
+          "titles": {
+            "canonical": "بشراني_(جنس)",
+            "normalized": "بشراني (جنس)",
+            "display": "<span class=\"mw-page-title-main\">بشراني (جنس)</span>"
+          },
+          "pageid": 344407,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/KNM_ER_1470_%28H._rudolfensis%29.png/330px-KNM_ER_1470_%28H._rudolfensis%29.png",
+            "width": 320,
+            "height": 278
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/KNM_ER_1470_%28H._rudolfensis%29.png",
+            "width": 505,
+            "height": 439
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72048421",
+          "tid": "c5fc41f6-92ee-11f0-932a-44457e686356",
+          "timestamp": "2025-09-16T11:17:47Z",
+          "description": "جنس من الثدييات ينتمي له الإنسان الحديث",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A8%D8%B4%D8%B1%D8%A7%D9%86%D9%8A_(%D8%AC%D9%86%D8%B3)"
+            }
+          },
+          "extract": "البشراني أو الهومو، هو جنس يندرج تحت الفصيلة البشرانيات في علم التصنيف الحيوي، ويتفرع منه الإنسان الحديث أوالأنسان العاقل والأنواع الحيوية المرتبطة به. عامة يعرف الجنس في علم الأحياء من حيث سلفه الموحد وسَيْغ تَرَاصّه وتباينه عن غيره من الأجناس وجنس ادم و يعني الجنس البشري  لأن كلمة هومو تعني بشر باللغة اللاتينية. لم يتبق من هذا الجنس سوى نوع لإنسان المعاصر المعروف علميًا باسم الإنسان العاقل الحديث أما باقي أنواع هذا الجنس فقد انقرضت. كان البشر السالفون للإنسان العاقل أدمغة صغيرة في مطلع ظهور هذا الجنس، الذي من المحتمل يكون قد تطور من أسلاف عمارة الأسترالوبيثكوس المندرجة تحت قبيلة أشباه البشر، بحوالي 2.3 إلي 2.4 مليون سنة مع بداية ظهور الإنسان الماهر. طُرِحَت العديد من الأنواع الحيوية كجد أعلى مباشر لنسل الهومو ، بما في ذلك الأسترالوبيثكس جارهي، والأسترالوبيثكس سيديبا، والأسترالوبيثكس الإفريقي، وأسترالوبيثكس أفارينيسيس. هذه الأنواع الحيوية تمتلك سمات مورفولوجية تتوائم مع سمات جنس البشراني (الإنساني)، لكن ليس هناك توافق في الآراء بشأن أيهم أدى إلى ظهور جنس البشراني، وبافتراض أن ذلك السلف ليس نوع آخر غير مكتشف حتى الآن.",
+          "extract_html": "<p><b>البشراني</b> أو <b>الهومو</b>، هو جنس يندرج تحت الفصيلة البشرانيات في علم التصنيف الحيوي، ويتفرع منه الإنسان الحديث أوالأنسان العاقل والأنواع الحيوية المرتبطة به. عامة يعرف الجنس في علم الأحياء من حيث سلفه الموحد وسَيْغ تَرَاصّه وتباينه عن غيره من الأجناس وجنس ادم <b>و</b> يعني الجنس <b>البشري </b> لأن كلمة هومو تعني بشر باللغة اللاتينية. لم يتبق من هذا الجنس سوى نوع لإنسان المعاصر المعروف علميًا باسم الإنسان العاقل الحديث أما باقي أنواع هذا الجنس فقد انقرضت. كان البشر السالفون للإنسان العاقل أدمغة صغيرة في مطلع ظهور هذا الجنس، الذي من المحتمل يكون قد تطور من أسلاف عمارة الأسترالوبيثكوس المندرجة تحت قبيلة أشباه البشر، بحوالي 2.3 إلي 2.4 مليون سنة مع بداية ظهور الإنسان الماهر. طُرِحَت العديد من الأنواع الحيوية كجد أعلى مباشر لنسل الهومو ، بما في ذلك الأسترالوبيثكس جارهي، والأسترالوبيثكس سيديبا، والأسترالوبيثكس الإفريقي، وأسترالوبيثكس أفارينيسيس. هذه الأنواع الحيوية تمتلك سمات مورفولوجية تتوائم مع سمات جنس <i>البشراني</i> (الإنساني)، لكن ليس هناك توافق في الآراء بشأن أيهم أدى إلى ظهور جنس البشراني، وبافتراض أن ذلك السلف ليس نوع آخر غير مكتشف حتى الآن.</p>",
+          "normalizedtitle": "بشراني (جنس)"
+        }
+      ],
+      "year": 2013
+    },
+    {
+      "text": "بدء المرحلة الأولى من صفقة تبادل الأسرى بين حماس وإسرائيل، بوساطة مصرية، حيث تم الإفراج عن 477 أسير فلسطيني بالسجون الإسرائيلية فيما قامت حماس بتسليم الجندي المختطف لديها جلعاد شاليط إلى مصر، إيذاناً ببدء عملية التبادل.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "فلسطينيون",
+          "displaytitle": "<span class=\"mw-page-title-main\">فلسطينيون</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q201190",
+          "titles": {
+            "canonical": "فلسطينيون",
+            "normalized": "فلسطينيون",
+            "display": "<span class=\"mw-page-title-main\">فلسطينيون</span>"
+          },
+          "pageid": 1942389,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Palestinians.JPG/330px-Palestinians.JPG",
+            "width": 320,
+            "height": 320
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Palestinians.JPG",
+            "width": 813,
+            "height": 812
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72184504",
+          "tid": "523ba02a-a106-11f0-b553-05be4b719314",
+          "timestamp": "2025-10-04T09:41:37Z",
+          "description": "مجموعة عرقية عربية موطنها الأصلي منطقة فلسطين في جنوب غرب آسيا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86"
+            }
+          },
+          "extract": "الشعب الفلسطيني هو شعب عربي يعيش أو كان يعيش في فلسطين التاريخية بشكل طبيعي قبل بدء الهجرات الصهيونية الحديثة، وجميع نسله من بعده. وهو جزءٌ ممن يُطلق عليهم تسمية «شوام»، حيث تشكل فلسطين الجزء الجنوبي من بلاد الشام. بلغ التعداد العالمي للفلسطينيين في نهاية عام 2013 ما يقارب 11.8 مليون نسمة، أكثر من نصفهم بقليل يعيش لاجئًا خارج حدود فلسطين التاريخية، أما الجزء الآخر فهم يعيشون داخل حدودها، ولكن ليس بالضرورة في بلداتهم الأصلية، فنسبة كبيرة منهم أيضاً لاجئون.",
+          "extract_html": "<p><b>الشعب الفلسطيني</b> هو شعب عربي يعيش أو كان يعيش في فلسطين التاريخية بشكل طبيعي قبل بدء الهجرات الصهيونية الحديثة، وجميع نسله من بعده. وهو جزءٌ ممن يُطلق عليهم تسمية «شوام»، حيث تشكل فلسطين الجزء الجنوبي من بلاد الشام. بلغ التعداد العالمي للفلسطينيين في نهاية عام 2013 ما يقارب 11.8 مليون نسمة، أكثر من نصفهم بقليل يعيش لاجئًا خارج حدود فلسطين التاريخية، أما الجزء الآخر فهم يعيشون داخل حدودها، ولكن ليس بالضرورة في بلداتهم الأصلية، فنسبة كبيرة منهم أيضاً لاجئون.</p>",
+          "normalizedtitle": "فلسطينيون"
+        },
+        {
+          "type": "standard",
+          "title": "إسرائيل",
+          "displaytitle": "<span class=\"mw-page-title-main\">إسرائيل</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q801",
+          "titles": {
+            "canonical": "إسرائيل",
+            "normalized": "إسرائيل",
+            "display": "<span class=\"mw-page-title-main\">إسرائيل</span>"
+          },
+          "pageid": 1569,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langar-330px-Flag_of_Israel.svg.png",
+            "width": 320,
+            "height": 233
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langar-1100px-Flag_of_Israel.svg.png",
+            "width": 1100,
+            "height": 800
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72216451",
+          "tid": "1970418f-a4dd-11f0-89d0-0ee4beb1dd95",
+          "timestamp": "2025-10-09T06:56:37Z",
+          "description": "دولة في غرب آسيا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84"
+            }
+          },
+          "extract": "إِسْرَائِيل ، ، هي دولة معترف بها جزئيًا تأسست عام 1948م، تقع في غرب آسيا، وتقع على الساحل الجنوبي الشرقي للبحر الأبيض المتوسط والساحل الشمالي للبحر الأحمر. لها حدود برية مع لبنان من الشمال، وسوريا من الشمال الشرقي، والأردن من الشرق، والأراضي الفلسطينية في الضفة الغربية وقطاع غزة من الشرق والغرب، على التوالي، ومصر من الجنوب الغربي. تحتوي على ميزات متنوعة جغرافيا داخل مساحتها الصغيرة نسبياً. مركز إسرائيل الاقتصادي والتكنولوجي يقع في مدينة تل أبيب، في حين أن مقر حكومتها والعاصمة المعلنة هي القدس، على الرغم من أن سيادة الدولة على القدس لديها اعتراف محدود فقط.",
+          "extract_html": "<p><b>إِسْرَائِيل</b> ، ، هي دولة معترف بها جزئيًا تأسست عام 1948م، تقع في غرب آسيا، وتقع على الساحل الجنوبي الشرقي للبحر الأبيض المتوسط والساحل الشمالي للبحر الأحمر. لها حدود برية مع لبنان من الشمال، وسوريا من الشمال الشرقي، والأردن من الشرق، والأراضي الفلسطينية في الضفة الغربية وقطاع غزة من الشرق والغرب، على التوالي، ومصر من الجنوب الغربي. تحتوي على ميزات متنوعة جغرافيا داخل مساحتها الصغيرة نسبياً. مركز إسرائيل الاقتصادي والتكنولوجي يقع في مدينة تل أبيب، في حين أن مقر حكومتها والعاصمة المعلنة هي القدس، على الرغم من أن سيادة الدولة على القدس لديها اعتراف محدود فقط.</p>",
+          "normalizedtitle": "إسرائيل"
+        },
+        {
+          "type": "standard",
+          "title": "جلعاد_شاليط",
+          "displaytitle": "<span class=\"mw-page-title-main\">جلعاد شاليط</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q214821",
+          "titles": {
+            "canonical": "جلعاد_شاليط",
+            "normalized": "جلعاد شاليط",
+            "display": "<span class=\"mw-page-title-main\">جلعاد شاليط</span>"
+          },
+          "pageid": 209624,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flickr_-_Israel_Defense_Forces_-_After_5_Years_of_Captivity.jpg/330px-Flickr_-_Israel_Defense_Forces_-_After_5_Years_of_Captivity.jpg",
+            "width": 320,
+            "height": 238
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flickr_-_Israel_Defense_Forces_-_After_5_Years_of_Captivity.jpg",
+            "width": 1548,
+            "height": 1151
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "70047717",
+          "tid": "bdf038a2-0e59-11f0-bd39-69762ddb0fc2",
+          "timestamp": "2025-03-31T17:58:25Z",
+          "description": "كاتب إسرائيلي",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D9%84%D8%B9%D8%A7%D8%AF_%D8%B4%D8%A7%D9%84%D9%8A%D8%B7"
+            }
+          },
+          "extract": "جلعاد شاليط ، جندي إسرائيلي سابق أسرته حركة المقاومة الإسلامية (حماس) عام 2006 وظل في الأسر لأكثر من 5 سنوات حتى أفرجت عنه في 2011 في صفقة تبادلية مع 1027 معتقل فلسطيني.",
+          "extract_html": "<p><b>جلعاد شاليط</b> ، جندي إسرائيلي سابق أسرته حركة المقاومة الإسلامية (حماس) عام 2006 وظل في الأسر لأكثر من 5 سنوات حتى أفرجت عنه في 2011 في صفقة تبادلية مع 1027 معتقل فلسطيني.</p>",
+          "normalizedtitle": "جلعاد شاليط"
+        }
+      ],
+      "year": 2011
+    },
+    {
+      "text": "تفجيرات انتحارية في اجتماع بمدينة بيشين الإيرانية في محافظة سيستان وبلوشستان من قبل مجموعة جند الله، أسفرت عن مقتل 43 شخصًا على الأقل بينهم عدة قادة بارزين من حرس الثورة الإسلامية كالعميد نور علي شوشتري نائب قائد القوات البرية لحرس الثورة الإسلامية.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "تفجيرات_بيشين_2009",
+          "displaytitle": "<span class=\"mw-page-title-main\">تفجيرات بيشين 2009</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2511749",
+          "titles": {
+            "canonical": "تفجيرات_بيشين_2009",
+            "normalized": "تفجيرات بيشين 2009",
+            "display": "<span class=\"mw-page-title-main\">تفجيرات بيشين 2009</span>"
+          },
+          "pageid": 1830685,
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "69214893",
+          "tid": "3aa09dad-cb19-11ef-8ec5-0733909d23fb",
+          "timestamp": "2025-01-05T03:57:49Z",
+          "description": "تفجيرات إرهابية ضد المدنيين",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D8%B4%D9%8A%D9%86_2009"
+            }
+          },
+          "extract": "وقعت تفجيرات بيشين 2009 في 18 أكتوبر 2009 مـ، عندما قام انتحاري بتفجير نفسه والمتفجرات في اجتماع بمدينة بيشين الإيرانية في محافظة سيستان وبلوشستان. وأسفر التفجير عن مقتل 43 شخصًا على الأقل بينهم عدة قادة بارزين من حرس الثورة الإسلامية ، وإصابة 150 آخرين. وادعت جماعة جند الله، وهي منظمة مسلحة مقرها في باكستان، مسؤوليتها عن الهجوم.",
+          "extract_html": "<p>وقعت <b>تفجيرات بيشين 2009</b> في 18 أكتوبر 2009 مـ، عندما قام انتحاري بتفجير نفسه والمتفجرات في اجتماع بمدينة بيشين الإيرانية في محافظة سيستان وبلوشستان. وأسفر التفجير عن مقتل 43 شخصًا على الأقل بينهم عدة قادة بارزين من حرس الثورة الإسلامية ، وإصابة 150 آخرين. وادعت جماعة جند الله، وهي منظمة مسلحة مقرها في باكستان، مسؤوليتها عن الهجوم.</p>",
+          "normalizedtitle": "تفجيرات بيشين 2009"
+        },
+        {
+          "type": "standard",
+          "title": "إيران",
+          "displaytitle": "<span class=\"mw-page-title-main\">إيران</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q794",
+          "titles": {
+            "canonical": "إيران",
+            "normalized": "إيران",
+            "display": "<span class=\"mw-page-title-main\">إيران</span>"
+          },
+          "pageid": 3672,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/langar-330px-Flag_of_Iran.svg.png",
+            "width": 320,
+            "height": 183
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/langar-630px-Flag_of_Iran.svg.png",
+            "width": 630,
+            "height": 360
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72159977",
+          "tid": "cdb5fbff-9e3b-11f0-aa5c-73486f38eadd",
+          "timestamp": "2025-09-30T20:26:54Z",
+          "description": "دولة في الشرق الأوسط",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%8A%D8%B1%D8%A7%D9%86"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%8A%D8%B1%D8%A7%D9%86"
+            }
+          },
+          "extract": "إِيرَان ورسميًّا الجمهورية الإسلامية الإيرانية هي دولة تقع في غرب آسيا. وهي ثاني أكبر الدول بالشرق الأوسط من حيث عدد السكان بعد مصر بإجمالي 85 مليون نسمة، وكذلك ثاني أكبر بلدان الشرق الأوسط مساحة بعد السعودية بمساحة تبلغ 1,648,195 كم²٬ تتميز إيران بموقع جيوسياسي يجعلها نقطة التقاء لثلاث مجالات آسيوية. يحدها من الشمال أرمينيا وأذربيجان وتركمانستان. وتطل إيران على بحر قزوين. ويحدها من الشرق أفغانستان وباكستان، ومن الجنوب الخليج العربي وخليج عمان، ومن الغرب العراق ومن الشمال الغربي تركيا. طهران هي العاصمة، وأكبر مدينة في البلاد والوسط السياسي والثقافي والتجاري والصناعي للأمة. تعد إيران قوةً إقليمية، وتحتل مركزا هاما في أمن الطاقة الدولية والاقتصاد العالمي بسبب احتياطاتها الكبيرة من النفط والغاز الطبيعي. حيث يوجد في إيران ثاني أكبر احتياطي من الغاز الطبيعي في العالم ورابع أكبر احتياطي مؤكد من النفط.",
+          "extract_html": "<p><b>إِيرَان</b> ورسميًّا <b>الجمهورية الإسلامية الإيرانية</b> هي دولة تقع في غرب آسيا. وهي ثاني أكبر الدول بالشرق الأوسط من حيث عدد السكان بعد مصر بإجمالي 85 مليون نسمة، وكذلك ثاني أكبر بلدان الشرق الأوسط مساحة بعد السعودية بمساحة تبلغ 1,648,195 كم²٬ تتميز إيران بموقع جيوسياسي يجعلها نقطة التقاء لثلاث مجالات آسيوية. يحدها من الشمال أرمينيا وأذربيجان وتركمانستان. وتطل إيران على بحر قزوين. ويحدها من الشرق أفغانستان وباكستان، ومن الجنوب الخليج العربي وخليج عمان، ومن الغرب العراق ومن الشمال الغربي تركيا. طهران هي العاصمة، وأكبر مدينة في البلاد والوسط السياسي والثقافي والتجاري والصناعي للأمة. تعد إيران قوةً إقليمية، وتحتل مركزا هاما في أمن الطاقة الدولية والاقتصاد العالمي بسبب احتياطاتها الكبيرة من النفط والغاز الطبيعي. حيث يوجد في إيران ثاني أكبر احتياطي من الغاز الطبيعي في العالم ورابع أكبر احتياطي مؤكد من النفط.</p>",
+          "normalizedtitle": "إيران"
+        },
+        {
+          "type": "standard",
+          "title": "سيستان_وبلوشستان_(محافظة)",
+          "displaytitle": "<span class=\"mw-page-title-main\">سيستان وبلوشستان (محافظة)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q939575",
+          "titles": {
+            "canonical": "سيستان_وبلوشستان_(محافظة)",
+            "normalized": "سيستان وبلوشستان (محافظة)",
+            "display": "<span class=\"mw-page-title-main\">سيستان وبلوشستان (محافظة)</span>"
+          },
+          "pageid": 31877,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Darak_Beach_1.jpg/330px-Darak_Beach_1.jpg",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Darak_Beach_1.jpg",
+            "width": 3799,
+            "height": 2533
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "68350481",
+          "tid": "5b80e957-96bb-11ef-b9ec-c10f02e2ee5a",
+          "timestamp": "2024-10-30T12:34:51Z",
+          "description": "إحدى محافظات إيران",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)"
+            }
+          },
+          "extract": "محافظة سيستان ، إحدى محافظات إيران الإحدى والثلاثين. تقع جنوبي شرق إيران على الحدود مع باكستان وأفغانستان. عاصمتها مدينة زاهدان.",
+          "extract_html": "<p><b>محافظة سيستان</b> ، إحدى محافظات إيران الإحدى والثلاثين. تقع جنوبي شرق إيران على الحدود مع باكستان وأفغانستان. عاصمتها مدينة زاهدان.</p>",
+          "normalizedtitle": "سيستان وبلوشستان (محافظة)"
+        },
+        {
+          "type": "standard",
+          "title": "جند_الله",
+          "displaytitle": "<span class=\"mw-page-title-main\">جند الله</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1048651",
+          "titles": {
+            "canonical": "جند_الله",
+            "normalized": "جند الله",
+            "display": "<span class=\"mw-page-title-main\">جند الله</span>"
+          },
+          "pageid": 352692,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/ar/f/f4/Jondollah_Logo.png",
+            "width": 240,
+            "height": 235
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/ar/f/f4/Jondollah_Logo.png",
+            "width": 240,
+            "height": 235
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "67846818",
+          "tid": "4335fbff-6f9b-11ef-9658-b7040c095ead",
+          "timestamp": "2024-09-10T17:36:51Z",
+          "description": "حركة مسلحة تطالب بحقوق قومية البلوش السنية في جنوب إيران",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D9%86%D8%AF_%D8%A7%D9%84%D9%84%D9%87"
+            }
+          },
+          "extract": "جند الله هي حركة مسلحة بلوشية سنية تطالب بالحرية وبحقوق وحريات الشعب البلوشي في بلوشستان والتي احتلت منذ عام (1928م)، واعدم فيها ملك بلوشستان الغربية على يد قوات الاحتلال الفارسي في عهد رضا بهلوي وكذلك تطالب بحقوق عموم أهل السنة في إيران ، أسست الحركة في عام 2002م، وتنشط في منطقة بلوشستان على الحدود بين إيران وباكستان، ينتمي إلى الحركة أكثر من 1000 مقاتل، شنت هجمات على مواقع عسكرية إيرانية قتلت فيها جنودًا إيرانيين. يتهمها خصومها بأنها حركة إرهابية. ويعتقد البعض اعتقاداً خاطئاً بأنها على صلة بتنظيم القاعدة. وقد اتهمها آخرون بعلاقات مع الولايات المتحدة رغم نفي الحركة أي ارتباطات بالقاعدة أو الولايات المتحدة. إلا أن هناك من يعتقد بصلة الحركة بالولايات المتحدة وأنها تستخدم الحركة لقيام حرب أهلية كما في العديد من الحروب التي خاضتها الولايات المتحدة الأمريكية سابقا. وفي الواقع لا يوجد علاقة ارتباط بين حركة جند الله وبين القاعدة.",
+          "extract_html": "<p><b>جند الله</b> هي حركة مسلحة بلوشية سنية تطالب بالحرية وبحقوق وحريات الشعب البلوشي في بلوشستان والتي احتلت منذ عام (1928م)، واعدم فيها ملك بلوشستان الغربية على يد قوات الاحتلال الفارسي في عهد رضا بهلوي وكذلك تطالب بحقوق عموم أهل السنة في إيران ، أسست الحركة في عام 2002م، وتنشط في منطقة بلوشستان على الحدود بين إيران وباكستان، ينتمي إلى الحركة أكثر من 1000 مقاتل، شنت هجمات على مواقع عسكرية إيرانية قتلت فيها جنودًا إيرانيين. يتهمها خصومها بأنها حركة إرهابية. ويعتقد البعض اعتقاداً خاطئاً بأنها على صلة بتنظيم القاعدة. وقد اتهمها آخرون بعلاقات مع الولايات المتحدة رغم نفي الحركة أي ارتباطات بالقاعدة أو الولايات المتحدة. إلا أن هناك من يعتقد بصلة الحركة بالولايات المتحدة وأنها تستخدم الحركة لقيام حرب أهلية كما في العديد من الحروب التي خاضتها الولايات المتحدة الأمريكية سابقا. وفي الواقع لا يوجد علاقة ارتباط بين حركة جند الله وبين القاعدة.</p>",
+          "normalizedtitle": "جند الله"
+        },
+        {
+          "type": "standard",
+          "title": "الحرس_الثوري_الإيراني",
+          "displaytitle": "<span class=\"mw-page-title-main\">الحرس الثوري الإيراني</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q271110",
+          "titles": {
+            "canonical": "الحرس_الثوري_الإيراني",
+            "normalized": "الحرس الثوري الإيراني",
+            "display": "<span class=\"mw-page-title-main\">الحرس الثوري الإيراني</span>"
+          },
+          "pageid": 231150,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IRGC_Fin_Flash.svg/langar-330px-IRGC_Fin_Flash.svg.png",
+            "width": 320,
+            "height": 529
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IRGC_Fin_Flash.svg/langar-624px-IRGC_Fin_Flash.svg.png",
+            "width": 624,
+            "height": 1032
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72064059",
+          "tid": "59a74a8b-946c-11f0-bc36-2f9f6d5fe78f",
+          "timestamp": "2025-09-18T08:49:13Z",
+          "description": "تنظيم مسلح لحماية النظام السياسي لجمهورية إيران الإسلامية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A"
+            }
+          },
+          "extract": "فيلق حرس الثورة الإسلامية ويُعرف اختصارًا باسم الحرس الثوري أي «الحرس» أو حرس الثورة الإسلامية أو الحرس الثوري الإسلامي أو عمومًا بالعربية الحرس الثوري الإيراني، هو أحد فروع القوات المسلحة الإيرانية التي تأسست بعد الثورة الإسلامية الإيرانية بأمر من آية الله روح الله الخميني. ففي حين يقوم جيش الجمهورية الإسلامية الإيرانية النظامي بالدفاع عن الحدود الإيرانية وحفظ النظام الداخلي وفقًا للدستور الإيراني يقوم الحرس الثوري «پاسداران» بحماية نظام الجمهورية الإسلامية في الداخل والخارج. يتركز دور الحرس الثوري في حماية النظام الإسلامي ومنع التدخل الأجنبي أو الانقلابات العسكرية أو «الحركات المنحرفة والمتطرفة». اسم إيران غير موجود في شعار الحرس الثوري.",
+          "extract_html": "<p><b>فيلق حرس الثورة الإسلامية</b> ويُعرف اختصارًا باسم <b>الحرس الثوري</b> أي «الحرس» أو <b>حرس الثورة الإسلامية</b> أو <b>الحرس الثوري الإسلامي</b> أو عمومًا بالعربية <b>الحرس الثوري الإيراني</b>، هو أحد فروع القوات المسلحة الإيرانية التي تأسست بعد الثورة الإسلامية الإيرانية بأمر من آية الله روح الله الخميني. ففي حين يقوم جيش الجمهورية الإسلامية الإيرانية النظامي بالدفاع عن الحدود الإيرانية وحفظ النظام الداخلي وفقًا للدستور الإيراني يقوم الحرس الثوري «پاسداران» بحماية نظام الجمهورية الإسلامية في الداخل والخارج. يتركز دور الحرس الثوري في حماية النظام الإسلامي ومنع التدخل الأجنبي أو الانقلابات العسكرية أو «الحركات المنحرفة والمتطرفة». اسم إيران غير موجود في شعار الحرس الثوري.</p>",
+          "normalizedtitle": "الحرس الثوري الإيراني"
+        }
+      ],
+      "year": 2009
+    },
+    {
+      "text": "الاتحاد السوفييتي يرجع علاقاته مع إسرائيل منذ أن قطعت في عام 1967 بعد حرب الأيام الستة.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الاتحاد_السوفيتي",
+          "displaytitle": "<span class=\"mw-page-title-main\">الاتحاد السوفيتي</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q15180",
+          "titles": {
+            "canonical": "الاتحاد_السوفيتي",
+            "normalized": "الاتحاد السوفيتي",
+            "display": "<span class=\"mw-page-title-main\">الاتحاد السوفيتي</span>"
+          },
+          "pageid": 3641,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/langar-330px-Flag_of_the_Soviet_Union.svg.png",
+            "width": 320,
+            "height": 160
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/langar-1200px-Flag_of_the_Soviet_Union.svg.png",
+            "width": 1200,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71937085",
+          "tid": "6813464c-894f-11f0-ba6e-7c9bd12a8451",
+          "timestamp": "2025-09-04T05:24:19Z",
+          "description": "السلطة الشيوعية الحاكمة في روسيا (1922–1991)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A"
+            }
+          },
+          "extract": "اتحاد الجمهوريات الاشتراكية السوفيتية والمعروف بإسم الإتحاد السوڤيتي هي دولة اشتراكية سابقة عابرة للقارات، شملت حدودها أغلب مساحة أوراسيا من عام 1922م حتى انحلالها في عام 1991م. وخلال وجودها، كانت أكبر دولة من حيث المساحة، مُمتدة عبر إحدى عشرة منطقة زمنية وتشترك في الحدود مع اثني عشر دولة، وثالث أكبر دولة من حيث عدد السكان.",
+          "extract_html": "<p><b>اتحاد الجمهوريات الاشتراكية السوفيتية</b> والمعروف بإسم <b>الإتحاد السوڤيتي</b> هي دولة اشتراكية سابقة عابرة للقارات، شملت حدودها أغلب مساحة أوراسيا من عام 1922م حتى انحلالها في عام 1991م. وخلال وجودها، كانت أكبر دولة من حيث المساحة، مُمتدة عبر إحدى عشرة منطقة زمنية وتشترك في الحدود مع اثني عشر دولة، وثالث أكبر دولة من حيث عدد السكان.</p>",
+          "normalizedtitle": "الاتحاد السوفيتي"
+        },
+        {
+          "type": "standard",
+          "title": "إسرائيل",
+          "displaytitle": "<span class=\"mw-page-title-main\">إسرائيل</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q801",
+          "titles": {
+            "canonical": "إسرائيل",
+            "normalized": "إسرائيل",
+            "display": "<span class=\"mw-page-title-main\">إسرائيل</span>"
+          },
+          "pageid": 1569,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langar-330px-Flag_of_Israel.svg.png",
+            "width": 320,
+            "height": 233
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langar-1100px-Flag_of_Israel.svg.png",
+            "width": 1100,
+            "height": 800
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72216451",
+          "tid": "1970418f-a4dd-11f0-89d0-0ee4beb1dd95",
+          "timestamp": "2025-10-09T06:56:37Z",
+          "description": "دولة في غرب آسيا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84"
+            }
+          },
+          "extract": "إِسْرَائِيل ، ، هي دولة معترف بها جزئيًا تأسست عام 1948م، تقع في غرب آسيا، وتقع على الساحل الجنوبي الشرقي للبحر الأبيض المتوسط والساحل الشمالي للبحر الأحمر. لها حدود برية مع لبنان من الشمال، وسوريا من الشمال الشرقي، والأردن من الشرق، والأراضي الفلسطينية في الضفة الغربية وقطاع غزة من الشرق والغرب، على التوالي، ومصر من الجنوب الغربي. تحتوي على ميزات متنوعة جغرافيا داخل مساحتها الصغيرة نسبياً. مركز إسرائيل الاقتصادي والتكنولوجي يقع في مدينة تل أبيب، في حين أن مقر حكومتها والعاصمة المعلنة هي القدس، على الرغم من أن سيادة الدولة على القدس لديها اعتراف محدود فقط.",
+          "extract_html": "<p><b>إِسْرَائِيل</b> ، ، هي دولة معترف بها جزئيًا تأسست عام 1948م، تقع في غرب آسيا، وتقع على الساحل الجنوبي الشرقي للبحر الأبيض المتوسط والساحل الشمالي للبحر الأحمر. لها حدود برية مع لبنان من الشمال، وسوريا من الشمال الشرقي، والأردن من الشرق، والأراضي الفلسطينية في الضفة الغربية وقطاع غزة من الشرق والغرب، على التوالي، ومصر من الجنوب الغربي. تحتوي على ميزات متنوعة جغرافيا داخل مساحتها الصغيرة نسبياً. مركز إسرائيل الاقتصادي والتكنولوجي يقع في مدينة تل أبيب، في حين أن مقر حكومتها والعاصمة المعلنة هي القدس، على الرغم من أن سيادة الدولة على القدس لديها اعتراف محدود فقط.</p>",
+          "normalizedtitle": "إسرائيل"
+        },
+        {
+          "type": "standard",
+          "title": "حرب_1967",
+          "displaytitle": "<span class=\"mw-page-title-main\">حرب 1967</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q49077",
+          "titles": {
+            "canonical": "حرب_1967",
+            "normalized": "حرب 1967",
+            "display": "<span class=\"mw-page-title-main\">حرب 1967</span>"
+          },
+          "pageid": 7625,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Six_Day_War_Territories-ar.svg/langar-330px-Six_Day_War_Territories-ar.svg.png",
+            "width": 320,
+            "height": 480
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Six_Day_War_Territories-ar.svg/langar-800px-Six_Day_War_Territories-ar.svg.png",
+            "width": 800,
+            "height": 1200
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72027674",
+          "tid": "b51ec3ce-9162-11f0-b401-e03a073d055b",
+          "timestamp": "2025-09-14T12:02:38Z",
+          "description": "حرب شنتها النظام الصهيوني على مصر وسوريا والأردن سنة 1967 والذي تعرف باسم \"نكسة يونيو\"",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8_1967",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8_1967?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8_1967?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D8%B1%D8%A8_1967"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8_1967",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AD%D8%B1%D8%A8_1967",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8_1967?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D8%B1%D8%A8_1967"
+            }
+          },
+          "extract": "حرب 1967 وتُعرف أيضاً في كل من سوريا والأردن باسم نكسة حزيران وفي مصر باسم نكسة 67 وتسمى في إسرائيل حرب الأيام الستة هي الحرب التي نشبت بين إسرائيل وكل من العراق ومصر وسوريا والأردن بين 5 حزيران/يونيو 1967 والعاشر من الشهر نفسه، وأدت إلى احتلال إسرائيل لسيناء وقطاع غزة والضفة الغربية والجولان وتعتبر ثالث حرب ضمن الصراع العربي الإسرائيلي؛ وقد أدت الحرب إلى مقتل 15,000 - 25,000 شخص في الدول العربية مقابل 800 في إسرائيل، وتدمير 70 - 80% من العتاد الحربي في الدول العربية مقابل 2 - 5% في إسرائيل، إلى جانب تفاوت مشابه في عدد الجرحى والأسرى؛ كما كان من نتائجها صدور قرار مجلس الأمن رقم 242 وانعقاد قمة اللاءات الثلاثة العربيّة في الخرطوم وتهجير معظم سكان مدن قناة السويس وكذلك تهجير معظم مدنيي محافظة القنيطرة في سوريا، وتهجير عشرات الآلاف من الفلسطينيين من الضفة بما فيها محو قرى بأكملها، وفتح باب الاستيطان في القدس الشرقية والضفة الغربية.",
+          "extract_html": "<p><b>حرب 1967</b> وتُعرف أيضاً في كل من سوريا والأردن باسم <b>نكسة حزيران</b> وفي مصر باسم <b>نكسة 67</b> وتسمى في إسرائيل <b>حرب الأيام الستة</b> هي الحرب التي نشبت بين إسرائيل وكل من العراق ومصر وسوريا والأردن بين 5 حزيران/يونيو 1967 والعاشر من الشهر نفسه، وأدت إلى احتلال إسرائيل لسيناء وقطاع غزة والضفة الغربية والجولان وتعتبر ثالث حرب ضمن الصراع العربي الإسرائيلي؛ وقد أدت الحرب إلى مقتل 15,000 - 25,000 شخص في الدول العربية مقابل 800 في إسرائيل، وتدمير 70 - 80% من العتاد الحربي في الدول العربية مقابل 2 - 5% في إسرائيل، إلى جانب تفاوت مشابه في عدد الجرحى والأسرى؛ كما كان من نتائجها صدور قرار مجلس الأمن رقم 242 وانعقاد قمة اللاءات الثلاثة العربيّة في الخرطوم وتهجير معظم سكان مدن قناة السويس وكذلك تهجير معظم مدنيي محافظة القنيطرة في سوريا، وتهجير عشرات الآلاف من الفلسطينيين من الضفة بما فيها محو قرى بأكملها، وفتح باب الاستيطان في القدس الشرقية والضفة الغربية.</p>",
+          "normalizedtitle": "حرب 1967"
+        }
+      ],
+      "year": 1991
+    },
+    {
+      "text": "الخميني يوقف عملية الإعدام في إيران.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "روح_الله_الخميني",
+          "displaytitle": "<span class=\"mw-page-title-main\">روح الله الخميني</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q38823",
+          "titles": {
+            "canonical": "روح_الله_الخميني",
+            "normalized": "روح الله الخميني",
+            "display": "<span class=\"mw-page-title-main\">روح الله الخميني</span>"
+          },
+          "pageid": 7232,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ruhollah_Khomeini_by_Jamaran_1.jpg/330px-Ruhollah_Khomeini_by_Jamaran_1.jpg",
+            "width": 320,
+            "height": 480
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ruhollah_Khomeini_by_Jamaran_1.jpg",
+            "width": 1667,
+            "height": 2500
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72144023",
+          "tid": "eabbc5b3-9cab-11f0-a993-bf1e60147f20",
+          "timestamp": "2025-09-28T20:44:24Z",
+          "description": "مرجع دين شيعي وقائد الثورة الإسلامية وأول مرشد أعلى للثورة الإسلامية في إيران",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B1%D9%88%D8%AD_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D9%86%D9%8A"
+            }
+          },
+          "extract": "السَيِّدُ رُوحُ اللهِ بنُ مُصطَفَی بنِ أَحمَدَ المُوسَوِيّ الخُمَينِيّ الشَّهير اختصارًا بِـ«روح الله الخميني» رجُلُ دين ومرجعٌ ديني وفيلسوفٌ وكاتبٌ وسياسي شيعي إيراني ومُؤسِّس الجُمهوريَّة الإسلاميَّة الإيرانيَّة والمُرشد الأعلیٰ للثورة الإسلاميَّة التي تُعدُّ واحدةً من أهمِّ الثورات وأكثرها تأثيرًا في التاريخ وقد شهدت الإطاحة بالملكيَّة البهلويَّة ومُحمَّد رضا بهلوي الشَّاه الأخير في إيران. بعد الثَّورة أصبح رُوح الله الخُميني المُرشد الأعلى لإيران من 25 صفر 1400 المُوافق فيه 3 كانون الأوَّل (ديسمبر) 1979م إلى 28 شوَّال 1409هـ المُوافق فيه 3 حزيران (يونيو) 1989م وهو منصبٌ تمَّ إنشاؤه في دُستور الجُمهوريَّة الإسلاميَّة الإيرانيَّة كأعلى سُلطة سياسيَّة ودينيَّة للأُمَّة. اختارته مجلة تايم واحدًا من بين مائة شخصيَّة تركت أكبر أثر في تاريخ البشريَّة في القرن العشرين.",
+          "extract_html": "<p><b>السَيِّدُ رُوحُ اللهِ بنُ مُصطَفَی بنِ أَحمَدَ المُوسَوِيّ الخُمَينِيّ</b> الشَّهير اختصارًا بِـ«<b>روح الله الخميني</b>» رجُلُ دين ومرجعٌ ديني وفيلسوفٌ <span class=\"mw-disambig\">وكاتبٌ</span> وسياسي شيعي إيراني ومُؤسِّس الجُمهوريَّة الإسلاميَّة الإيرانيَّة والمُرشد الأعلیٰ للثورة الإسلاميَّة التي تُعدُّ واحدةً من أهمِّ الثورات وأكثرها تأثيرًا في التاريخ وقد شهدت الإطاحة بالملكيَّة البهلويَّة ومُحمَّد رضا بهلوي الشَّاه الأخير في إيران. بعد الثَّورة أصبح رُوح الله الخُميني المُرشد الأعلى لإيران من 25 صفر 1400 المُوافق فيه 3 كانون الأوَّل (ديسمبر) 1979م إلى 28 شوَّال 1409هـ المُوافق فيه 3 حزيران (يونيو) 1989م وهو منصبٌ تمَّ إنشاؤه في دُستور الجُمهوريَّة الإسلاميَّة الإيرانيَّة كأعلى سُلطة سياسيَّة ودينيَّة للأُمَّة. اختارته مجلة تايم واحدًا من بين مائة شخصيَّة تركت أكبر أثر في تاريخ البشريَّة في القرن العشرين.</p>",
+          "normalizedtitle": "روح الله الخميني"
+        },
+        {
+          "type": "standard",
+          "title": "عقوبة_الإعدام",
+          "displaytitle": "<span class=\"mw-page-title-main\">عقوبة الإعدام</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q8454",
+          "titles": {
+            "canonical": "عقوبة_الإعدام",
+            "normalized": "عقوبة الإعدام",
+            "display": "<span class=\"mw-page-title-main\">عقوبة الإعدام</span>"
+          },
+          "pageid": 116632,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/langar-320px-Scale_of_justice_2.svg.png",
+            "width": 320,
+            "height": 326
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/langar-204px-Scale_of_justice_2.svg.png",
+            "width": 204,
+            "height": 208
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72114558",
+          "tid": "dfcc1206-99dd-11f0-ba6b-9bdba4804cab",
+          "timestamp": "2025-09-25T07:04:27Z",
+          "description": "قتل الشخص بسبب جرم ارتكبه",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D9%82%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85"
+            }
+          },
+          "extract": "عقوبة الإعدام، عقوبة الموت أو تنفيذ حكم الإعدام هو قتل شخص بإجراء قضائي من أجل العقاب أو الردع العام والمنع. وتعرف الجرائم التي تؤدي إلى هذه العقوبة بجرائم الإعدام أو جنايات الإعدام.",
+          "extract_html": "<p><b>عقوبة الإعدام</b>، عقوبة الموت أو تنفيذ حكم الإعدام هو قتل شخص بإجراء قضائي من أجل العقاب أو الردع العام والمنع. وتعرف الجرائم التي تؤدي إلى هذه العقوبة بجرائم الإعدام أو جنايات الإعدام.</p>",
+          "normalizedtitle": "عقوبة الإعدام"
+        },
+        {
+          "type": "standard",
+          "title": "إيران",
+          "displaytitle": "<span class=\"mw-page-title-main\">إيران</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q794",
+          "titles": {
+            "canonical": "إيران",
+            "normalized": "إيران",
+            "display": "<span class=\"mw-page-title-main\">إيران</span>"
+          },
+          "pageid": 3672,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/langar-330px-Flag_of_Iran.svg.png",
+            "width": 320,
+            "height": 183
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/langar-630px-Flag_of_Iran.svg.png",
+            "width": 630,
+            "height": 360
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72159977",
+          "tid": "cdb5fbff-9e3b-11f0-aa5c-73486f38eadd",
+          "timestamp": "2025-09-30T20:26:54Z",
+          "description": "دولة في الشرق الأوسط",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%8A%D8%B1%D8%A7%D9%86"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A5%D9%8A%D8%B1%D8%A7%D9%86"
+            }
+          },
+          "extract": "إِيرَان ورسميًّا الجمهورية الإسلامية الإيرانية هي دولة تقع في غرب آسيا. وهي ثاني أكبر الدول بالشرق الأوسط من حيث عدد السكان بعد مصر بإجمالي 85 مليون نسمة، وكذلك ثاني أكبر بلدان الشرق الأوسط مساحة بعد السعودية بمساحة تبلغ 1,648,195 كم²٬ تتميز إيران بموقع جيوسياسي يجعلها نقطة التقاء لثلاث مجالات آسيوية. يحدها من الشمال أرمينيا وأذربيجان وتركمانستان. وتطل إيران على بحر قزوين. ويحدها من الشرق أفغانستان وباكستان، ومن الجنوب الخليج العربي وخليج عمان، ومن الغرب العراق ومن الشمال الغربي تركيا. طهران هي العاصمة، وأكبر مدينة في البلاد والوسط السياسي والثقافي والتجاري والصناعي للأمة. تعد إيران قوةً إقليمية، وتحتل مركزا هاما في أمن الطاقة الدولية والاقتصاد العالمي بسبب احتياطاتها الكبيرة من النفط والغاز الطبيعي. حيث يوجد في إيران ثاني أكبر احتياطي من الغاز الطبيعي في العالم ورابع أكبر احتياطي مؤكد من النفط.",
+          "extract_html": "<p><b>إِيرَان</b> ورسميًّا <b>الجمهورية الإسلامية الإيرانية</b> هي دولة تقع في غرب آسيا. وهي ثاني أكبر الدول بالشرق الأوسط من حيث عدد السكان بعد مصر بإجمالي 85 مليون نسمة، وكذلك ثاني أكبر بلدان الشرق الأوسط مساحة بعد السعودية بمساحة تبلغ 1,648,195 كم²٬ تتميز إيران بموقع جيوسياسي يجعلها نقطة التقاء لثلاث مجالات آسيوية. يحدها من الشمال أرمينيا وأذربيجان وتركمانستان. وتطل إيران على بحر قزوين. ويحدها من الشرق أفغانستان وباكستان، ومن الجنوب الخليج العربي وخليج عمان، ومن الغرب العراق ومن الشمال الغربي تركيا. طهران هي العاصمة، وأكبر مدينة في البلاد والوسط السياسي والثقافي والتجاري والصناعي للأمة. تعد إيران قوةً إقليمية، وتحتل مركزا هاما في أمن الطاقة الدولية والاقتصاد العالمي بسبب احتياطاتها الكبيرة من النفط والغاز الطبيعي. حيث يوجد في إيران ثاني أكبر احتياطي من الغاز الطبيعي في العالم ورابع أكبر احتياطي مؤكد من النفط.</p>",
+          "normalizedtitle": "إيران"
+        }
+      ],
+      "year": 1979
+    },
+    {
+      "text": "تأسيس محكمة المدققين الأوروبية في لوكسمبورغ.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "محكمة_المدققين_الأوروبية",
+          "displaytitle": "<span class=\"mw-page-title-main\">محكمة المدققين الأوروبية</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q8900",
+          "titles": {
+            "canonical": "محكمة_المدققين_الأوروبية",
+            "normalized": "محكمة المدققين الأوروبية",
+            "display": "<span class=\"mw-page-title-main\">محكمة المدققين الأوروبية</span>"
+          },
+          "pageid": 3273151,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ECA-logo.svg/langar-330px-ECA-logo.svg.png",
+            "width": 320,
+            "height": 324
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ECA-logo.svg/langar-512px-ECA-logo.svg.png",
+            "width": 512,
+            "height": 519
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71191986",
+          "tid": "4015949a-510f-11f0-a103-925abed32d40",
+          "timestamp": "2025-06-24T15:23:59Z",
+          "description": "مؤسسة تابعة للاتحاد الأوروبي",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%82%D9%82%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9"
+            }
+          },
+          "extract": "محكمة المدققين الأوروبية هي المؤسسة الخامسة في الاتحاد الأوروبي تم الاتفاق على تأسيسها في العام 1975 وتأسست بشكل رسمي في عام 1977 في لوكسمبورغ. وهي تمتلك صلاحيات تدقيق البيانات المالية للاتحاد الأوروبي.",
+          "extract_html": "<p><b>محكمة المدققين الأوروبية</b> هي المؤسسة الخامسة في الاتحاد الأوروبي تم الاتفاق على تأسيسها في العام 1975 وتأسست بشكل رسمي في عام 1977 في لوكسمبورغ. وهي تمتلك صلاحيات تدقيق البيانات المالية للاتحاد الأوروبي.</p>",
+          "normalizedtitle": "محكمة المدققين الأوروبية"
+        },
+        {
+          "type": "standard",
+          "title": "لوكسمبورغ",
+          "displaytitle": "<span class=\"mw-page-title-main\">لوكسمبورغ</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q32",
+          "titles": {
+            "canonical": "لوكسمبورغ",
+            "normalized": "لوكسمبورغ",
+            "display": "<span class=\"mw-page-title-main\">لوكسمبورغ</span>"
+          },
+          "pageid": 3890,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langar-330px-Flag_of_Luxembourg.svg.png",
+            "width": 320,
+            "height": 192
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langar-512px-Flag_of_Luxembourg.svg.png",
+            "width": 512,
+            "height": 307
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71360205",
+          "tid": "08318c2b-5f12-11f0-b6e3-844062695bae",
+          "timestamp": "2025-07-12T11:19:10Z",
+          "description": "دولة في أوروبا الوسطى",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA"
+            }
+          },
+          "extract": "لوكسمبورغ أو لُكْسِمبُرج أو رسمياً دوقية لكسمبورغ الكبرى دولةٌ تقع في أوروبا الغربية وهي إحدى دول البنلوكس، تحدها من الغرب والشمال الغربي بلجيكا، ومن الشرق والشمال الشرقي ألمانيا، وفرنسا من الجنوب، عاصمتها مدينة لوكسمبورغ، وهي إحدى عواصم الاتحاد الأوروبي حيث تستضيف عدداً من مؤسسات الاتحاد مثل: محكمة الاتحاد الأوروبي، محكمة المدققين الأوروبية، أمانة البرلمان الأوروبي، وبنك الاستثمار الأوروبي.",
+          "extract_html": "<p><b>لوكسمبورغ</b> أو <b>لُكْسِمبُرج</b> أو رسمياً <b>دوقية لكسمبورغ الكبرى</b> دولةٌ تقع في أوروبا الغربية وهي إحدى دول البنلوكس، تحدها من الغرب والشمال الغربي بلجيكا، ومن الشرق والشمال الشرقي ألمانيا، وفرنسا من الجنوب، عاصمتها مدينة لوكسمبورغ، وهي إحدى عواصم الاتحاد الأوروبي حيث تستضيف عدداً من مؤسسات الاتحاد مثل: محكمة الاتحاد الأوروبي، محكمة المدققين الأوروبية، أمانة البرلمان الأوروبي، وبنك الاستثمار الأوروبي.</p>",
+          "normalizedtitle": "لوكسمبورغ"
+        }
+      ],
+      "year": 1977
+    },
+    {
+      "text": "الرئيس السوري نور الدين الأتاسي يقدم استقالته من جميع مناصبه احتجاجًا على تدخل الجيش في الحياة السياسية وعلى ممارسات رفعت الأسد شقيق وزير الدفاع حافظ الأسد.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "سوريا",
+          "displaytitle": "<span class=\"mw-page-title-main\">سوريا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q858",
+          "titles": {
+            "canonical": "سوريا",
+            "normalized": "سوريا",
+            "display": "<span class=\"mw-page-title-main\">سوريا</span>"
+          },
+          "pageid": 187029,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/langar-330px-Flag_of_Syria_%282025-%29.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/langar-900px-Flag_of_Syria_%282025-%29.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72105580",
+          "tid": "db372a2e-990b-11f0-bcc4-329f50a657d6",
+          "timestamp": "2025-09-24T06:01:05Z",
+          "description": "دولة عربية تقع في الشرق الأوسط",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+            }
+          },
+          "extract": "سُورِيَا أو سُورِيَّة هي دولة عربية تعد جمهورية مركزية، مؤلفة من 14 محافظة، عاصمتها هي دمشق، تقع ضمن منطقة الشرق الأوسط والشام في غرب آسيا؛ يحدها شمالاً تركيا، وشرقًا العراق، وجنوبًا الأردن، وغربًا فلسطين (إسرائيل)، ولبنان، والبحر الأبيض المتوسط، بمساحة 185180 كم مربع، وتضاريس وغطاء نباتي وحيواني متنوّع، ومناخ متراوح بين متوسطي، وشبه جاف. تصنف سوريا جنبًا إلى جنب مع العراق بوصفها أقدم مواقع مهد الحضارة البشرية، واشتقت اسمها حسب أوفر النظريات الأكاديمية من آشور؛ بكل الأحوال منطقة سوريا التاريخية مختلفة عن الدولة السورية الحديثة من ناحية الامتداد والمساحة، وتشير الأولى إلى بلاد الشام، أو الهلال الخصيب.",
+          "extract_html": "<p><b>سُورِيَا</b> أو <b>سُورِيَّة</b> هي دولة عربية تعد جمهورية مركزية، مؤلفة من 14 محافظة، عاصمتها هي دمشق، تقع ضمن منطقة الشرق الأوسط والشام في غرب آسيا؛ يحدها شمالاً تركيا، وشرقًا العراق، وجنوبًا الأردن، وغربًا فلسطين (إسرائيل)، ولبنان، والبحر الأبيض المتوسط، بمساحة 185180 كم مربع، وتضاريس وغطاء نباتي وحيواني متنوّع، ومناخ متراوح بين متوسطي، وشبه جاف. تصنف سوريا جنبًا إلى جنب مع العراق بوصفها أقدم مواقع <i>مهد الحضارة</i> البشرية، واشتقت اسمها حسب أوفر النظريات الأكاديمية من آشور؛ بكل الأحوال منطقة سوريا التاريخية مختلفة عن الدولة السورية الحديثة من ناحية الامتداد والمساحة، وتشير الأولى إلى بلاد الشام، أو الهلال الخصيب.</p>",
+          "normalizedtitle": "سوريا"
+        },
+        {
+          "type": "standard",
+          "title": "نور_الدين_الأتاسي",
+          "displaytitle": "<span class=\"mw-page-title-main\">نور الدين الأتاسي</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q59691",
+          "titles": {
+            "canonical": "نور_الدين_الأتاسي",
+            "normalized": "نور الدين الأتاسي",
+            "display": "<span class=\"mw-page-title-main\">نور الدين الأتاسي</span>"
+          },
+          "pageid": 185871,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nureddin_Atassi.jpg/330px-Nureddin_Atassi.jpg",
+            "width": 320,
+            "height": 411
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nureddin_Atassi.jpg",
+            "width": 350,
+            "height": 450
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "70806786",
+          "tid": "f95cca6f-34ce-11f0-812a-d7d9e5be662b",
+          "timestamp": "2025-05-19T16:33:20Z",
+          "description": "الرئيس السابع عشر للجمهورية العربية السورية (حكم 1385–1390 هـ / 1966–1970 م)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B3%D9%8A"
+            }
+          },
+          "extract": "نور الدين الأتاسي ، رئيس سوريا بين 25 شباط 1966 و18 تشرين الثاني 1970. ينتمي لأسرة من مدينة حمص السورية، درس الطب في جامعة دمشق وتخرج منها في العام 1955. انتمى منذ شبابه إلى حزب البعث وكان على رأس تنظيم الحزب في جامعة دمشق خلال الخمسينات، وقاد العديد من التحركات الطالبية والمظاهرات خلال فترة الانقلابات، ودخل إلى السجن في العام 1952 إبّان فترة حكم العقيد أديب الشيشكلي حيث أمضى فيه عاماً كاملاً نُفي خلالها إلى سجن تدمر الصحراوي وتعرض لتعذيب شديد. شارك كمتطوع في الثورة الجزائرية خلال العام 1958 على رأس مجموعة من الأطباء السوريين. بعد ذلك عاد إلى مدينته حمص ليزاول مهنته كطبيب جراح في المشفى الوطني. عُيِّنَ وزيراً للداخلية بعد وصول حزب البعث إلى السلطة في آذار 1963، ثم أصبح نائباً لرئيس الوزراء عام 1964، ثم عضواً في مجلس رئاسة الدولة عام 1965.",
+          "extract_html": "<p><b>نور الدين الأتاسي</b> ، رئيس سوريا بين 25 شباط 1966 و18 تشرين الثاني 1970. ينتمي لأسرة من مدينة حمص السورية، درس الطب في جامعة دمشق وتخرج منها في العام 1955. انتمى منذ شبابه إلى <span class=\"mw-disambig\">حزب البعث</span> وكان على رأس تنظيم الحزب في جامعة دمشق خلال الخمسينات، وقاد العديد من التحركات الطالبية والمظاهرات خلال فترة الانقلابات، ودخل إلى السجن في العام 1952 إبّان فترة حكم العقيد أديب الشيشكلي حيث أمضى فيه عاماً كاملاً نُفي خلالها إلى سجن تدمر الصحراوي وتعرض لتعذيب شديد. شارك كمتطوع في الثورة الجزائرية خلال العام 1958 على رأس مجموعة من الأطباء السوريين. بعد ذلك عاد إلى مدينته حمص ليزاول مهنته كطبيب جراح في المشفى الوطني. عُيِّنَ وزيراً للداخلية بعد وصول حزب البعث إلى السلطة في آذار 1963، ثم أصبح نائباً لرئيس الوزراء عام 1964، ثم عضواً في مجلس رئاسة الدولة عام 1965.</p>",
+          "normalizedtitle": "نور الدين الأتاسي"
+        },
+        {
+          "type": "standard",
+          "title": "الجيش_العربي_السوري",
+          "displaytitle": "<span class=\"mw-page-title-main\">الجيش العربي السوري</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q849180",
+          "titles": {
+            "canonical": "الجيش_العربي_السوري",
+            "normalized": "الجيش العربي السوري",
+            "display": "<span class=\"mw-page-title-main\">الجيش العربي السوري</span>"
+          },
+          "pageid": 62536,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Syria_Armed_Forces_Emblem.svg/langar-320px-Syria_Armed_Forces_Emblem.svg.png",
+            "width": 320,
+            "height": 267
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Syria_Armed_Forces_Emblem.svg/langar-310px-Syria_Armed_Forces_Emblem.svg.png",
+            "width": 310,
+            "height": 259
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71914338",
+          "tid": "b2948732-86eb-11f0-8736-67e087073dfe",
+          "timestamp": "2025-09-01T04:25:32Z",
+          "description": "القوات المسلحة للجمهورية العربية السورية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A"
+            }
+          },
+          "extract": "القوات المسلحة العربية السورية هي القوات العسكرية في الجمهورية العربية السورية. وتتألف من القوات البرية العربية السورية، والقوات البحرية العربية السورية، والقوات الجوية العربية السورية، وقوات الدفاع الجوي العربية السورية. القائد الأعلى للجيش والقوات المسلحة هو الرئيس السوري ووزير الدفاع منصب نائب القائد الأعلى للجيش والقوات المسلحة.، أما رئيس هيئة الأركان العامة للجيش والقوات المسلحة السورية هو اللواء علي نور الدين النعسان.",
+          "extract_html": "<p><b>القوات المسلحة العربية السورية</b> هي القوات العسكرية في الجمهورية العربية السورية. وتتألف من القوات البرية العربية السورية، والقوات البحرية العربية السورية، والقوات الجوية العربية السورية، وقوات الدفاع الجوي العربية السورية. القائد الأعلى للجيش والقوات المسلحة هو الرئيس السوري ووزير الدفاع منصب نائب القائد الأعلى للجيش والقوات المسلحة.، أما رئيس هيئة الأركان العامة للجيش والقوات المسلحة السورية هو اللواء علي نور الدين النعسان.</p>",
+          "normalizedtitle": "الجيش العربي السوري"
+        },
+        {
+          "type": "standard",
+          "title": "رفعت_الأسد",
+          "displaytitle": "<span class=\"mw-page-title-main\">رفعت الأسد</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q519639",
+          "titles": {
+            "canonical": "رفعت_الأسد",
+            "normalized": "رفعت الأسد",
+            "display": "<span class=\"mw-page-title-main\">رفعت الأسد</span>"
+          },
+          "pageid": 62246,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rifaat_al-Assad%2C_commander_of_the_Defense_Corps_in_the_1980s.png/330px-Rifaat_al-Assad%2C_commander_of_the_Defense_Corps_in_the_1980s.png",
+            "width": 320,
+            "height": 400
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rifaat_al-Assad%2C_commander_of_the_Defense_Corps_in_the_1980s.png",
+            "width": 1600,
+            "height": 2000
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72203786",
+          "tid": "7c92953b-a374-11f0-a211-41022f7d3ffc",
+          "timestamp": "2025-10-07T11:55:15Z",
+          "description": "نائب رئيس الجمهورية العربية السورية وقائد سرايا الدفاع سابقًا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B1%D9%81%D8%B9%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF"
+            }
+          },
+          "extract": "رفعت علي سليمان الأسد ، هو الشقيق الأصغر للرئيس السوري السابق حافظ الأسد، وجميل الأسد، وعم الرئيس السوري المخلوع بشار الأسد. شغل منصب نائب رئيس الجمهورية السوري لشؤون الأمن القومي وعضو القيادة القطرية لحزب البعث وقائد سرايا الدفاع. يُنسب إليه عددٌ من المجازر الوحشية في سوريا.",
+          "extract_html": "<p><b>رفعت علي سليمان الأسد</b> ، هو الشقيق الأصغر للرئيس السوري السابق حافظ الأسد، وجميل الأسد، وعم الرئيس السوري المخلوع بشار الأسد. شغل منصب نائب رئيس الجمهورية السوري لشؤون الأمن القومي وعضو القيادة القطرية لحزب البعث وقائد سرايا الدفاع. يُنسب إليه عددٌ من المجازر الوحشية في سوريا.</p>",
+          "normalizedtitle": "رفعت الأسد"
+        },
+        {
+          "type": "standard",
+          "title": "حافظ_الأسد",
+          "displaytitle": "<span class=\"mw-page-title-main\">حافظ الأسد</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q118725",
+          "titles": {
+            "canonical": "حافظ_الأسد",
+            "normalized": "حافظ الأسد",
+            "display": "<span class=\"mw-page-title-main\">حافظ الأسد</span>"
+          },
+          "pageid": 3360,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hafez_al-Assad_official_portrait.jpg/330px-Hafez_al-Assad_official_portrait.jpg",
+            "width": 320,
+            "height": 451
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hafez_al-Assad_official_portrait.jpg",
+            "width": 852,
+            "height": 1200
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71077598",
+          "tid": "a573a4c1-482e-11f0-893b-4c160c9fe0ec",
+          "timestamp": "2025-06-13T08:16:03Z",
+          "description": "الرئيس الثامن عشر للجمهورية العربية السورية (1390–1421 هـ / 1971–2000 م)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AD%D8%A7%D9%81%D8%B8_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF"
+            }
+          },
+          "extract": "حافظ الأسد سياسي وضابط عسكري سوري، شغل منصب رئيس سوريا منذ عام 1971 وحتى وفاته في عام 2000. كما شغل منصب رئيس وزراء سوريا من عام 1970 إلى 1971، وكان الأمين القطري للقيادة القطرية للفرع السوري لحزب البعث العربي الاشتراكي والأمين العام للقيادة القومية لحزب البعث من عام 1970 حتى 2000. كان حافظ الأسد أحد المشاركين الرئيسيين في انقلاب عام 1963 في سوريا، الذي أدى إلى وصول الفرع السوري لحزب البعث العربي الاشتراكي إلى السلطة في البلاد، وهي السلطة التي استمرت حتى سقوط النظام في عام 2024، والذي كان يقوده آنذاك ابنه بشار.",
+          "extract_html": "<p><b>حافظ الأسد</b> سياسي وضابط عسكري سوري، شغل منصب رئيس سوريا منذ عام 1971 وحتى وفاته في عام 2000. كما شغل منصب رئيس وزراء سوريا من عام 1970 إلى 1971، وكان الأمين القطري للقيادة القطرية للفرع السوري لحزب البعث العربي الاشتراكي والأمين العام للقيادة القومية لحزب البعث من عام 1970 حتى 2000. كان حافظ الأسد أحد المشاركين الرئيسيين في انقلاب عام 1963 في سوريا، الذي أدى إلى وصول الفرع السوري لحزب البعث العربي الاشتراكي إلى السلطة في البلاد، وهي السلطة التي استمرت حتى سقوط النظام في عام 2024، والذي كان يقوده آنذاك ابنه بشار.</p>",
+          "normalizedtitle": "حافظ الأسد"
+        }
+      ],
+      "year": 1970
+    },
+    {
+      "text": "اغتيال كريم بلقاسم أحد قادة جبهة التحرير الوطني الجزائري بفندق في مدينة فرانكفورت الألمانية.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "كريم_بلقاسم",
+          "displaytitle": "<span class=\"mw-page-title-main\">كريم بلقاسم</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q206433",
+          "titles": {
+            "canonical": "كريم_بلقاسم",
+            "normalized": "كريم بلقاسم",
+            "display": "<span class=\"mw-page-title-main\">كريم بلقاسم</span>"
+          },
+          "pageid": 137736,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Krim_belkacem.jpg/330px-Krim_belkacem.jpg",
+            "width": 320,
+            "height": 507
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Krim_belkacem.jpg",
+            "width": 633,
+            "height": 1002
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71105855",
+          "tid": "2578547a-4a4f-11f0-b8b7-3712fff70319",
+          "timestamp": "2025-06-16T01:13:44Z",
+          "description": "سياسي وعسكري جزائري راحل",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85"
+            }
+          },
+          "extract": "كريم بلقاسم من مواليد 14 ديسمبر 1922 بقرية تيزرى عيسى بدوار أيت يحي موسى ولاية تيزي وزو بالجزائر وسط أسرة ميسورة الحال كان أبوه حسين تاجرا كبيرا عيّنته فرنسا كحارس للغابة واقترحت عليه منصب قايد لكنه رفض.",
+          "extract_html": "<p><b>كريم بلقاسم</b> من مواليد 14 ديسمبر 1922 بقرية تيزرى عيسى بدوار أيت يحي موسى ولاية تيزي وزو بالجزائر وسط أسرة ميسورة الحال كان أبوه حسين تاجرا كبيرا عيّنته فرنسا كحارس للغابة واقترحت عليه منصب قايد لكنه رفض.</p>",
+          "normalizedtitle": "كريم بلقاسم"
+        }
+      ],
+      "year": 1970
+    },
+    {
+      "text": "الاتحاد السوفيتي يغزو تشيكوسلوفاكيا.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الاتحاد_السوفيتي",
+          "displaytitle": "<span class=\"mw-page-title-main\">الاتحاد السوفيتي</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q15180",
+          "titles": {
+            "canonical": "الاتحاد_السوفيتي",
+            "normalized": "الاتحاد السوفيتي",
+            "display": "<span class=\"mw-page-title-main\">الاتحاد السوفيتي</span>"
+          },
+          "pageid": 3641,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/langar-330px-Flag_of_the_Soviet_Union.svg.png",
+            "width": 320,
+            "height": 160
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/langar-1200px-Flag_of_the_Soviet_Union.svg.png",
+            "width": 1200,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71937085",
+          "tid": "6813464c-894f-11f0-ba6e-7c9bd12a8451",
+          "timestamp": "2025-09-04T05:24:19Z",
+          "description": "السلطة الشيوعية الحاكمة في روسيا (1922–1991)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D9%81%D9%8A%D8%AA%D9%8A"
+            }
+          },
+          "extract": "اتحاد الجمهوريات الاشتراكية السوفيتية والمعروف بإسم الإتحاد السوڤيتي هي دولة اشتراكية سابقة عابرة للقارات، شملت حدودها أغلب مساحة أوراسيا من عام 1922م حتى انحلالها في عام 1991م. وخلال وجودها، كانت أكبر دولة من حيث المساحة، مُمتدة عبر إحدى عشرة منطقة زمنية وتشترك في الحدود مع اثني عشر دولة، وثالث أكبر دولة من حيث عدد السكان.",
+          "extract_html": "<p><b>اتحاد الجمهوريات الاشتراكية السوفيتية</b> والمعروف بإسم <b>الإتحاد السوڤيتي</b> هي دولة اشتراكية سابقة عابرة للقارات، شملت حدودها أغلب مساحة أوراسيا من عام 1922م حتى انحلالها في عام 1991م. وخلال وجودها، كانت أكبر دولة من حيث المساحة، مُمتدة عبر إحدى عشرة منطقة زمنية وتشترك في الحدود مع اثني عشر دولة، وثالث أكبر دولة من حيث عدد السكان.</p>",
+          "normalizedtitle": "الاتحاد السوفيتي"
+        },
+        {
+          "type": "standard",
+          "title": "تشيكوسلوفاكيا",
+          "displaytitle": "<span class=\"mw-page-title-main\">تشيكوسلوفاكيا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q33946",
+          "titles": {
+            "canonical": "تشيكوسلوفاكيا",
+            "normalized": "تشيكوسلوفاكيا",
+            "display": "<span class=\"mw-page-title-main\">تشيكوسلوفاكيا</span>"
+          },
+          "pageid": 8372,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langar-330px-Flag_of_the_Czech_Republic.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langar-900px-Flag_of_the_Czech_Republic.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71472084",
+          "tid": "99c6a8ba-6721-11f0-8a51-c63a2d74100e",
+          "timestamp": "2025-07-22T17:30:46Z",
+          "description": "دولة زائلة كانت ذات سيادة في أوروبا الوسطى (1918-1992)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AA%D8%B4%D9%8A%D9%83%D9%88%D8%B3%D9%84%D9%88%D9%81%D8%A7%D9%83%D9%8A%D8%A7"
+            }
+          },
+          "extract": "تشيكوسلوفاكيا ، كانت دولة غير ساحلية تقع في أوروبا الوسطى. تأسست عام 1918 بعد إعلانها الاستقلال عن الإمبراطورية النمساوية المجرية.",
+          "extract_html": "<p><b>تشيكوسلوفاكيا</b> ، كانت دولة غير ساحلية تقع في أوروبا الوسطى. تأسست عام 1918 بعد إعلانها الاستقلال عن الإمبراطورية النمساوية المجرية.</p>",
+          "normalizedtitle": "تشيكوسلوفاكيا"
+        }
+      ],
+      "year": 1944
+    },
+    {
+      "text": "الولايات المتحدة تحتل بورتوريكو.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الولايات_المتحدة",
+          "displaytitle": "<span class=\"mw-page-title-main\">الولايات المتحدة</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q30",
+          "titles": {
+            "canonical": "الولايات_المتحدة",
+            "normalized": "الولايات المتحدة",
+            "display": "<span class=\"mw-page-title-main\">الولايات المتحدة</span>"
+          },
+          "pageid": 2293,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-330px-Flag_of_the_United_States.svg.png",
+            "width": 320,
+            "height": 168
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-1235px-Flag_of_the_United_States.svg.png",
+            "width": 1235,
+            "height": 650
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72125762",
+          "tid": "bb5060b7-9acf-11f0-aec1-4d06bb8bb1d7",
+          "timestamp": "2025-09-26T11:55:44Z",
+          "description": "دولة في أمريكا الشمالية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            }
+          },
+          "extract": "الْوِلَايَاتُ المُتَّحِدَةُ الأَمْرِيكِيَّةُ(2) واختصارًا أَمْرِيكَا، هِي جُمهُورِيّة دُستُورِيّة اِتِّحادِيّة(1) تضمُّ خمسِين وِلاية ومِنطقة العاصِمة الاتّحادية. تقع مُعظم البِلادِ في وسط أَمريكا الشمالِيَّة، حيثُ تقع 48 وِلاية، ووَاشِنطُن العاصِمة بين المُحِيطُ الهادِئ، والمُحِيطُ الأطلسي، وتحُدُّها كندا شمالًا والمَكْسِيك جنُوبًا. تقع وِلاية أَلاسْكا في الشّمال الغربِيّ من القارّة، وتحُدُّها كندا شرقًا ورُوسيَا غربًا عبَر مَضِيق بيِرينغ، أما وِلاية هاواي، التي تُعد أرْخَبيلًا فتقع في مُنتصف المُحِيطُ الهادِئ، كما تضُمُّ الدّولة عددًا من اَلأَراضِي والجُزُرِ في الكارِيبِي والمُحِيطُ الهادِئ.",
+          "extract_html": "<p><b>الْوِلَايَاتُ المُتَّحِدَةُ الأَمْرِيكِيَّةُ</b><sup><small>(<span class=\"mw-selflink-fragment\">2</span>)</small></sup> واختصارًا <b>أَمْرِيكَا</b>، هِي جُمهُورِيّة دُستُورِيّة اِتِّحادِيّة<sup><small>(<span class=\"mw-selflink-fragment\">1</span>)</small></sup> تضمُّ خمسِين وِلاية ومِنطقة العاصِمة الاتّحادية. تقع مُعظم البِلادِ في وسط أَمريكا الشمالِيَّة، حيثُ تقع 48 وِلاية، ووَاشِنطُن العاصِمة بين المُحِيطُ الهادِئ، والمُحِيطُ الأطلسي، وتحُدُّها كندا شمالًا والمَكْسِيك جنُوبًا. تقع وِلاية أَلاسْكا في الشّمال الغربِيّ من القارّة، وتحُدُّها كندا شرقًا ورُوسيَا غربًا عبَر مَضِيق بيِرينغ، أما وِلاية هاواي، التي تُعد أرْخَبيلًا فتقع في مُنتصف المُحِيطُ الهادِئ، كما تضُمُّ الدّولة عددًا من اَلأَراضِي والجُزُرِ في الكارِيبِي والمُحِيطُ الهادِئ.</p>",
+          "normalizedtitle": "الولايات المتحدة"
+        },
+        {
+          "type": "standard",
+          "title": "بورتوريكو",
+          "displaytitle": "<span class=\"mw-page-title-main\">بورتوريكو</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1183",
+          "titles": {
+            "canonical": "بورتوريكو",
+            "normalized": "بورتوريكو",
+            "display": "<span class=\"mw-page-title-main\">بورتوريكو</span>"
+          },
+          "pageid": 49469,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/langar-330px-Flag_of_Puerto_Rico.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/langar-900px-Flag_of_Puerto_Rico.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71531907",
+          "tid": "f277d354-6c44-11f0-9abc-f6fb28e0310b",
+          "timestamp": "2025-07-29T06:26:23Z",
+          "description": "مقاطعة تابعة إداريا إلى الولايات المتحدة الأمريكية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D9%83%D9%88"
+            }
+          },
+          "extract": "بورتوريكو أو بُرتوريكو أو بُرتريكة تعني بالإسبانية «الميناء الغني» وهو إقليم من الجزر تابع للولايات المتحدة يقع في منطقة الكاريبي، اسمه الرسمي دولة بورتوريكو الحرة المرتبطة أو «دولة بورتوريكو الحرة المرتبطة»، تقع في شمال شرق البحر الكاريبي، شرق جمهورية الدومينيكان وغرب كلً من جزر فيرجن التابعة للولايات المتحدة وجزر فيرجن البريطانية.\n| الناتج المحلي الإجمالي اسمي = $103 مليار\n| سنة الناتج المحلي الإجمالي اسمي = 2021",
+          "extract_html": "<p><b>بورتوريكو</b> أو <b>بُرتوريكو</b> أو <b>بُرتريكة</b> تعني بالإسبانية «الميناء الغني» وهو إقليم من الجزر تابع للولايات المتحدة يقع في منطقة الكاريبي، اسمه الرسمي <b>دولة بورتوريكو الحرة المرتبطة</b> أو «دولة بورتوريكو الحرة المرتبطة»، تقع في شمال شرق البحر الكاريبي، شرق جمهورية الدومينيكان وغرب كلً من جزر فيرجن التابعة للولايات المتحدة وجزر فيرجن البريطانية.\n| الناتج المحلي الإجمالي اسمي = $103 مليار\n| سنة الناتج المحلي الإجمالي اسمي = 2021</p>",
+          "normalizedtitle": "بورتوريكو"
+        }
+      ],
+      "year": 1898
+    },
+    {
+      "text": "العلم الأمريكي يرتفع للمرة الأولى في ألاسكا، ويشير ذلك إلى انتقال ملكية تلك المنطقة من الإمبراطورية الروسية إلى الولايات المتحدة.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "علم_الولايات_المتحدة",
+          "displaytitle": "<span class=\"mw-page-title-main\">علم الولايات المتحدة</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q42537",
+          "titles": {
+            "canonical": "علم_الولايات_المتحدة",
+            "normalized": "علم الولايات المتحدة",
+            "display": "<span class=\"mw-page-title-main\">علم الولايات المتحدة</span>"
+          },
+          "pageid": 428082,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-330px-Flag_of_the_United_States.svg.png",
+            "width": 320,
+            "height": 168
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-1235px-Flag_of_the_United_States.svg.png",
+            "width": 1235,
+            "height": 650
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71343646",
+          "tid": "28f6c704-5dda-11f0-8654-c401e2dc5b6d",
+          "timestamp": "2025-07-10T22:06:42Z",
+          "description": "العلم الوطني للولايات المتحدة الأمريكية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            }
+          },
+          "extract": "علم الولايات المتحدة هو علم الولايات المتحدة الأمريكية. يضم 13 خطا أحمر وأبيض ترمز إلى عدد المستعمرات البريطانية الثلاثة عشر عند إعلان الاستقلال الأمريكي عن مملكة بريطانيا العظمى بتاريخ 4 تموز (يوليو) سنة 1776 والتي أصبحت أول 13 ولاية بالولايات المتحدة الأمريكية، مع مربع أزرق يضم 50 نجمة بيضاء ترمز إلى عدد الولايات الأمريكية ويسمى هذا المربع بمربع الاتحاد.",
+          "extract_html": "<p><b>علم الولايات المتحدة</b> هو علم الولايات المتحدة الأمريكية. يضم 13 خطا أحمر وأبيض ترمز إلى عدد المستعمرات البريطانية الثلاثة عشر عند إعلان الاستقلال الأمريكي عن مملكة بريطانيا العظمى بتاريخ 4 تموز (يوليو) سنة 1776 والتي أصبحت أول 13 ولاية بالولايات المتحدة الأمريكية، مع مربع أزرق يضم 50 نجمة بيضاء ترمز إلى عدد الولايات الأمريكية ويسمى هذا المربع بمربع الاتحاد.</p>",
+          "normalizedtitle": "علم الولايات المتحدة"
+        },
+        {
+          "type": "standard",
+          "title": "ألاسكا",
+          "displaytitle": "<span class=\"mw-page-title-main\">ألاسكا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q797",
+          "titles": {
+            "canonical": "ألاسكا",
+            "normalized": "ألاسكا",
+            "display": "<span class=\"mw-page-title-main\">ألاسكا</span>"
+          },
+          "pageid": 10864,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alaska_tmo_2013168_lrg%281%29.jpg/330px-Alaska_tmo_2013168_lrg%281%29.jpg",
+            "width": 320,
+            "height": 420
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alaska_tmo_2013168_lrg%281%29.jpg",
+            "width": 6400,
+            "height": 8400
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71753970",
+          "tid": "9d034a46-7ac1-11f0-9504-3aab9d00cd82",
+          "timestamp": "2025-08-16T16:54:03Z",
+          "description": "أكبر ولاية امريكية من حيث المساحة",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A3%D9%84%D8%A7%D8%B3%D9%83%D8%A7"
+            }
+          },
+          "extract": "ألاسكا هي إحدى ولايات إقليم المحيط الهادي والذي يضم بالإضافة إلى ألاسكا عدد أربع ولايات هي ولاية واشنطن، ولاية أوريجون، ولاية كاليفورنيا، وهاواي. وتعد ألاسكا أكبر ولاية في الولايات المتحدة الأمريكية وتوازي مساحتها خُمس بقية الولايات، وأكثر من ضعف مساحة تكساس بقليل. حيث تبلغ مساحتها 1,518,776 كيلومتر مربع لكن حجمها الكبير يقابله تعداد سكاني ضئيل نسبيًا مقارنةً بالولايات الأخرى ففي تعداد السكان لعام 1990 كانت ألاسكا في المرتبة 49 من حيث عدد السكان في الولايات الأمريكية، وفقط ولاية وايومنغ كانت أقل منها سكانًا، في إحصاء عام 1980 كان عدد السكان 400,481 وفي إحصاء عام 2000 بلغ عدد سكان الولاية 626,932 نسمة، تتميز ألاسكا أنها ولاية منفصلة عن بقية أراضي الولايات المتحدة، فهي تقع شمال غرب كندا، ويفصلها عن ولاية واشنطن 500 ميل من الأراضي الكندية. اشترتها الولايات المتحدة من روسيا القيصرية سنة 1867 م بسبعة ملايين ومائتي ألف دولار وتم اعتمادها رسميا كولاية في 3 يناير 1959 حيث كان ترتيبها 49 في عدد الولايات آنذاك، لذلك غالبًا ما يطلق سكان ألاسكا على باقي الولايات بال48 السفلى. يعتقد أن كلمة ألاسكا نحتت من كلمة إلياسكا Alyeska، بمعنى الأرض الأكبر أو الأرض الأم في لغة شعب الألويت الإسكيمو.",
+          "extract_html": "<p><b>ألاسكا</b> هي إحدى ولايات إقليم المحيط الهادي والذي يضم بالإضافة إلى ألاسكا عدد أربع ولايات هي ولاية واشنطن، ولاية أوريجون، ولاية كاليفورنيا، وهاواي. وتعد ألاسكا أكبر ولاية في الولايات المتحدة الأمريكية وتوازي مساحتها خُمس بقية الولايات، وأكثر من ضعف مساحة تكساس بقليل. حيث تبلغ مساحتها 1,518,776 كيلومتر مربع لكن حجمها الكبير يقابله تعداد سكاني ضئيل نسبيًا مقارنةً بالولايات الأخرى ففي تعداد السكان لعام 1990 كانت ألاسكا في المرتبة 49 من حيث عدد السكان في الولايات الأمريكية، وفقط ولاية وايومنغ كانت أقل منها سكانًا، في إحصاء عام 1980 كان عدد السكان 400,481 وفي إحصاء عام 2000 بلغ عدد سكان الولاية 626,932 نسمة، تتميز ألاسكا أنها ولاية منفصلة عن بقية أراضي الولايات المتحدة، فهي تقع شمال غرب كندا، ويفصلها عن <span class=\"mw-disambig\">ولاية واشنطن</span> 500 ميل من الأراضي الكندية. اشترتها الولايات المتحدة من روسيا القيصرية سنة 1867 م بسبعة ملايين ومائتي ألف دولار وتم اعتمادها رسميا كولاية في 3 يناير 1959 حيث كان ترتيبها 49 في عدد الولايات آنذاك، لذلك غالبًا ما يطلق سكان ألاسكا على باقي الولايات بال48 السفلى. يعتقد أن كلمة ألاسكا نحتت من كلمة إلياسكا Alyeska، بمعنى الأرض الأكبر أو الأرض الأم في لغة شعب الألويت الإسكيمو.</p>",
+          "normalizedtitle": "ألاسكا"
+        },
+        {
+          "type": "standard",
+          "title": "الإمبراطورية_الروسية",
+          "displaytitle": "<span class=\"mw-page-title-main\">الإمبراطورية الروسية</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q34266",
+          "titles": {
+            "canonical": "الإمبراطورية_الروسية",
+            "normalized": "الإمبراطورية الروسية",
+            "display": "<span class=\"mw-page-title-main\">الإمبراطورية الروسية</span>"
+          },
+          "pageid": 18587,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langar-330px-Flag_of_Russia.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langar-900px-Flag_of_Russia.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71325529",
+          "tid": "81da28d5-5c37-11f0-81b6-9cef4fd86a93",
+          "timestamp": "2025-07-08T20:09:52Z",
+          "description": "إمبراطورية شملت روسيا وما جاورها",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9"
+            }
+          },
+          "extract": "الإمبراطورية الروسية وهو اسم الدولة الموجودة منذ سنة 1721 حتى قيام الثورة البلشفية سنة 1917. وكانت خلفًا لروسيا القيصرية، وسلفًا للاتحاد السوفييتي. تعدُّ ثاني أكبر إمبراطورية متجاورة في تاريخ العالم من حيث الامتداد الجغرافي، ولم تتجاوزها إلَّا إمبراطورية المغول والثالثة عالمياً بعد إسقاط صفة التجاوز خلف الإمبراطورية البريطانية وإمبراطورية المغول. ففي سنة 1866، كانت الإمبراطورية تمتدُّ من أوروبا الشرقية عبر آسيا، وصولاً إلى أمريكا الشمالية على مساحة 22.8 مليون كم مربع، لتشمل 15.3% من المساحة الإجمالية للكرة الأرضية.",
+          "extract_html": "<p><b>الإمبراطورية الروسية</b> وهو اسم الدولة الموجودة منذ سنة 1721 حتى قيام الثورة البلشفية سنة 1917. وكانت خلفًا لروسيا القيصرية، وسلفًا للاتحاد السوفييتي. تعدُّ ثاني أكبر إمبراطورية متجاورة في تاريخ العالم من حيث الامتداد الجغرافي، ولم تتجاوزها إلَّا إمبراطورية المغول والثالثة عالمياً بعد إسقاط صفة التجاوز خلف الإمبراطورية البريطانية وإمبراطورية المغول. ففي سنة 1866، كانت الإمبراطورية تمتدُّ من أوروبا الشرقية عبر آسيا، وصولاً إلى أمريكا الشمالية على مساحة 22.8 مليون كم مربع، لتشمل 15.3% من المساحة الإجمالية للكرة الأرضية.</p>",
+          "normalizedtitle": "الإمبراطورية الروسية"
+        },
+        {
+          "type": "standard",
+          "title": "الولايات_المتحدة",
+          "displaytitle": "<span class=\"mw-page-title-main\">الولايات المتحدة</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q30",
+          "titles": {
+            "canonical": "الولايات_المتحدة",
+            "normalized": "الولايات المتحدة",
+            "display": "<span class=\"mw-page-title-main\">الولايات المتحدة</span>"
+          },
+          "pageid": 2293,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-330px-Flag_of_the_United_States.svg.png",
+            "width": 320,
+            "height": 168
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langar-1235px-Flag_of_the_United_States.svg.png",
+            "width": 1235,
+            "height": 650
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72125762",
+          "tid": "bb5060b7-9acf-11f0-aec1-4d06bb8bb1d7",
+          "timestamp": "2025-09-26T11:55:44Z",
+          "description": "دولة في أمريكا الشمالية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9"
+            }
+          },
+          "extract": "الْوِلَايَاتُ المُتَّحِدَةُ الأَمْرِيكِيَّةُ(2) واختصارًا أَمْرِيكَا، هِي جُمهُورِيّة دُستُورِيّة اِتِّحادِيّة(1) تضمُّ خمسِين وِلاية ومِنطقة العاصِمة الاتّحادية. تقع مُعظم البِلادِ في وسط أَمريكا الشمالِيَّة، حيثُ تقع 48 وِلاية، ووَاشِنطُن العاصِمة بين المُحِيطُ الهادِئ، والمُحِيطُ الأطلسي، وتحُدُّها كندا شمالًا والمَكْسِيك جنُوبًا. تقع وِلاية أَلاسْكا في الشّمال الغربِيّ من القارّة، وتحُدُّها كندا شرقًا ورُوسيَا غربًا عبَر مَضِيق بيِرينغ، أما وِلاية هاواي، التي تُعد أرْخَبيلًا فتقع في مُنتصف المُحِيطُ الهادِئ، كما تضُمُّ الدّولة عددًا من اَلأَراضِي والجُزُرِ في الكارِيبِي والمُحِيطُ الهادِئ.",
+          "extract_html": "<p><b>الْوِلَايَاتُ المُتَّحِدَةُ الأَمْرِيكِيَّةُ</b><sup><small>(<span class=\"mw-selflink-fragment\">2</span>)</small></sup> واختصارًا <b>أَمْرِيكَا</b>، هِي جُمهُورِيّة دُستُورِيّة اِتِّحادِيّة<sup><small>(<span class=\"mw-selflink-fragment\">1</span>)</small></sup> تضمُّ خمسِين وِلاية ومِنطقة العاصِمة الاتّحادية. تقع مُعظم البِلادِ في وسط أَمريكا الشمالِيَّة، حيثُ تقع 48 وِلاية، ووَاشِنطُن العاصِمة بين المُحِيطُ الهادِئ، والمُحِيطُ الأطلسي، وتحُدُّها كندا شمالًا والمَكْسِيك جنُوبًا. تقع وِلاية أَلاسْكا في الشّمال الغربِيّ من القارّة، وتحُدُّها كندا شرقًا ورُوسيَا غربًا عبَر مَضِيق بيِرينغ، أما وِلاية هاواي، التي تُعد أرْخَبيلًا فتقع في مُنتصف المُحِيطُ الهادِئ، كما تضُمُّ الدّولة عددًا من اَلأَراضِي والجُزُرِ في الكارِيبِي والمُحِيطُ الهادِئ.</p>",
+          "normalizedtitle": "الولايات المتحدة"
+        }
+      ],
+      "year": 1867
+    },
+    {
+      "text": "الحملة الفرنسية على مصر بقيادة الجنرال جاك فرانسوا مينو تغادر الأراضي المصرية.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "الحملة_الفرنسية_على_مصر_وسوريا",
+          "displaytitle": "<span class=\"mw-page-title-main\">الحملة الفرنسية على مصر وسوريا</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q253684",
+          "titles": {
+            "canonical": "الحملة_الفرنسية_على_مصر_وسوريا",
+            "normalized": "الحملة الفرنسية على مصر وسوريا",
+            "display": "<span class=\"mw-page-title-main\">الحملة الفرنسية على مصر وسوريا</span>"
+          },
+          "pageid": 109167,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/330px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg",
+            "width": 320,
+            "height": 225
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg",
+            "width": 2993,
+            "height": 2100
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72249032",
+          "tid": "e5ed4871-a922-11f0-9c53-e745d575579c",
+          "timestamp": "2025-10-14T17:26:20Z",
+          "description": "الاحتلال الفرنسي لمصر من سنة 1798 حتى سنة 1801",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%B5%D8%B1_%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+            }
+          },
+          "extract": "الحملة الفرنسية على مصر وسوريا (1798-1801م) هي حملة عسكرية قام بها الجنرال نابليون بونابرت على الولايات العثمانية مصر والشام بجيش قوامه 36 ألف مقاتلًا بهدف احتلال مصر والشام من أجل المصالح الفرنسية، ومنع إنجلترا من القدرة على الوصول للهند، وكذلك كان للحملة أهداف علمية. كانت بداية الحملة هي حملة البحر المتوسط (1798)، وهي سلسلة من المعارك البحرية شملت السيطرة على مالطا. استمرت الحملة لمدة 3 سنوات، حيث انتهت في عام 1801 بهزيمة وانسحاب الفرنسيين.",
+          "extract_html": "<p><b>الحملة الفرنسية على مصر وسوريا</b> (1798-1801م) هي حملة عسكرية قام بها الجنرال نابليون بونابرت على الولايات العثمانية مصر والشام بجيش قوامه 36 ألف مقاتلًا بهدف احتلال مصر والشام من أجل المصالح الفرنسية، ومنع إنجلترا من القدرة على الوصول للهند، وكذلك كان للحملة أهداف علمية. كانت بداية الحملة هي حملة البحر المتوسط (1798)، وهي سلسلة من المعارك البحرية شملت السيطرة على مالطا. استمرت الحملة لمدة 3 سنوات، حيث انتهت في عام 1801 بهزيمة وانسحاب الفرنسيين.</p>",
+          "normalizedtitle": "الحملة الفرنسية على مصر وسوريا"
+        },
+        {
+          "type": "standard",
+          "title": "جاك_فرانسوا_مينو",
+          "displaytitle": "<span class=\"mw-page-title-main\">جاك فرانسوا مينو</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1345264",
+          "titles": {
+            "canonical": "جاك_فرانسوا_مينو",
+            "normalized": "جاك فرانسوا مينو",
+            "display": "<span class=\"mw-page-title-main\">جاك فرانسوا مينو</span>"
+          },
+          "pageid": 68759,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jacques_Menou_1750_1810.jpg/330px-Jacques_Menou_1750_1810.jpg",
+            "width": 320,
+            "height": 417
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jacques_Menou_1750_1810.jpg",
+            "width": 384,
+            "height": 500
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "69959741",
+          "tid": "344fc21d-07e6-11f0-89ab-e6687ea27dac",
+          "timestamp": "2025-03-23T12:56:15Z",
+          "description": "جنرال فرنسي حكم مصر أثناء الحملة الفرنسية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%AC%D8%A7%D9%83_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%D8%A7_%D9%85%D9%8A%D9%86%D9%88"
+            }
+          },
+          "extract": "الجنرال جاك فرانسوا مينو أو عبد الله مينو، جنرال فرنسي في جيش نابليون بونابرت، ولد في مدينة في غرب فرنسا والتحق بالعمل العسكري مبكراً في حياته، ومشهود له بالكفاءة العسكرية والحنكة في الإدارة. شارك في الحملة الفرنسية على مصر وتسلم قيادتها بعد مقتل الجنرال كليبر. اعتنق الإسلام عام 1801.",
+          "extract_html": "<p><b>الجنرال جاك فرانسوا مينو</b> أو <b>عبد الله مينو</b>، جنرال فرنسي في جيش نابليون بونابرت، ولد في مدينة في غرب فرنسا والتحق بالعمل العسكري مبكراً في حياته، ومشهود له بالكفاءة العسكرية والحنكة في الإدارة. شارك في الحملة الفرنسية على مصر وتسلم قيادتها بعد مقتل الجنرال كليبر. اعتنق الإسلام عام 1801.</p>",
+          "normalizedtitle": "جاك فرانسوا مينو"
+        },
+        {
+          "type": "standard",
+          "title": "مصر",
+          "displaytitle": "<span class=\"mw-page-title-main\">مصر</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q79",
+          "titles": {
+            "canonical": "مصر",
+            "normalized": "مصر",
+            "display": "<span class=\"mw-page-title-main\">مصر</span>"
+          },
+          "pageid": 400490,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/langar-330px-Flag_of_Egypt.svg.png",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/langar-900px-Flag_of_Egypt.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "72089855",
+          "tid": "09034d5a-970f-11f0-8405-49a966bc6199",
+          "timestamp": "2025-09-21T17:18:48Z",
+          "description": "دولة عربية تقع في شمال شرق إفريقيا وجنوب غرب آسيا",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%B5%D8%B1"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%85%D8%B5%D8%B1",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%B5%D8%B1"
+            }
+          },
+          "extract": "مِصرُ دولةٌ عربية، عابرة للقارات، تمتد على الركن الشَّمالي الشرقي لإفريقيا والركنِ الجَنوبي الغربي من آسيا بجسر بري شكلته شبه جزيرة سَيناء. قُدِّر سكانها بأكثرَ من 107 مليون نسَمة؛ فتكون الثالثةَ عشْرة بين دول العالم سكانًا، والأكثر سكاناً عربيًّا وشرقًا أوسطيًّا. يحدها شَمالاً: البحر المتوسط، وجَنوباً: السودان، وشرقاً: البحر الأحمر، ومن الشَّمال الشرقي: فِلَسطين (إسرائيل)، وقِطَاع غزة، وغرباً: ليبيا. مِساحتها نحو 1,010,408 كيلومترًا مربعًا، المأهولة منها 78,990 كم2، فهي 7.8% من مِساحتها كلِّها. ومِصر، إداريًّا، 27 محافظة، كل منها على تقسيماتٍ إدارية أصغر، وهي المراكز أو الأقسام.",
+          "extract_html": "<p><b>مِصرُ</b> دولةٌ عربية، عابرة للقارات، تمتد على الركن الشَّمالي الشرقي لإفريقيا والركنِ الجَنوبي الغربي من آسيا بجسر بري شكلته شبه جزيرة سَيناء. قُدِّر سكانها بأكثرَ من 107 مليون نسَمة؛ فتكون الثالثةَ عشْرة بين دول العالم سكانًا، والأكثر سكاناً عربيًّا وشرقًا أوسطيًّا. يحدها شَمالاً: البحر المتوسط، وجَنوباً: السودان، وشرقاً: البحر الأحمر، ومن الشَّمال الشرقي: فِلَسطين (إسرائيل)، وقِطَاع غزة، وغرباً: ليبيا. مِساحتها نحو 1,010,408 كيلومترًا مربعًا، المأهولة منها 78,990 كم<sup>2</sup>، فهي 7.8% من مِساحتها كلِّها. ومِصر، إداريًّا، 27 محافظة، كل منها على تقسيماتٍ إدارية أصغر، وهي المراكز أو الأقسام.</p>",
+          "normalizedtitle": "مصر"
+        }
+      ],
+      "year": 1801
+    },
+    {
+      "text": "تأسيس مدرسة القبة الشرعية في الهفوف.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "مدرسة_القبة_الشرعية",
+          "displaytitle": "<span class=\"mw-page-title-main\">مدرسة القبة الشرعية</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q99689415",
+          "titles": {
+            "canonical": "مدرسة_القبة_الشرعية",
+            "normalized": "مدرسة القبة الشرعية",
+            "display": "<span class=\"mw-page-title-main\">مدرسة القبة الشرعية</span>"
+          },
+          "pageid": 7847516,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9.jpg/330px-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9.jpg",
+            "width": 320,
+            "height": 436
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9.jpg",
+            "width": 720,
+            "height": 982
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "67653299",
+          "tid": "42eb98d0-5ee6-11ef-a59c-dd97817b71e1",
+          "timestamp": "2024-08-20T11:20:53Z",
+          "description": "مدرسة إسلامية في الهفوف، الأحساء",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9",
+              "edit": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9"
+            }
+          },
+          "extract": "المدرسة القبّة الشرعية أو اختصارًا المدرسة القبة هي مدرسة إسلامية حنفية في الهفوف، المملكة العربية السعودية. هي أقدم مدرسة دينية بالأحساء وتقع في الجهة الشمالية من حي الكوت بمدينة الهفوف والجهة الجنوبية الغربية من قصر إبراهيم الأثري، سميت بذلك لوجود قبة كبيرة تاريخية بها. أوقفها الوالي العثماني علي بن أحمد باشا البريكي سنة 1019 هـ/ 1610م، تقدر مساحتها 204 أمتار مربعة وخمسة عشر سنتيميتر وتتميز بطراز عثماني وتعد أول مدرسة علمية مستقلة متخصصة في تدريس العلوم الشرعية واللغة العربية في شرق الجزيرة العربية والخليج العربي، يؤكد بعض أقوال تاريخ شفوي وجود طريق سري يربط بين القصر والمدرسة كان يستخدمه المعلمون أثناء ذهابهم إلى القصر، في حال استدعائهم من قبل الوالي العثماني على المنطقة، وقد قام بالتدريس فيها على مدى قرون ماضية عدد من مشايخ أسرة الملا، منهم عبد اللطيف بن عبد الرحمن الملا، وقام بتجديد بنائها محمد بن أحمد الملا وتم افتتاحها مجدداً في 1 محرم 1431 هـ/ 17 ديسمبر 2009.",
+          "extract_html": "<p><b>المدرسة القبّة الشرعية</b> أو اختصارًا <b>المدرسة القبة</b> هي مدرسة إسلامية حنفية في الهفوف، المملكة العربية السعودية. هي أقدم مدرسة دينية بالأحساء وتقع في الجهة الشمالية من حي الكوت بمدينة الهفوف والجهة الجنوبية الغربية من قصر إبراهيم الأثري، سميت بذلك لوجود قبة كبيرة تاريخية بها. أوقفها الوالي العثماني علي بن أحمد باشا البريكي سنة 1019 هـ/ 1610م، تقدر مساحتها 204 أمتار مربعة وخمسة عشر سنتيميتر وتتميز بطراز عثماني وتعد أول مدرسة علمية مستقلة متخصصة في تدريس العلوم الشرعية واللغة العربية في شرق الجزيرة العربية والخليج العربي، يؤكد بعض أقوال تاريخ شفوي وجود طريق سري يربط بين القصر والمدرسة كان يستخدمه المعلمون أثناء ذهابهم إلى القصر، في حال استدعائهم من قبل الوالي العثماني على المنطقة، وقد قام بالتدريس فيها على مدى قرون ماضية عدد من مشايخ أسرة الملا، منهم عبد اللطيف بن عبد الرحمن الملا، وقام بتجديد بنائها محمد بن أحمد الملا وتم افتتاحها مجدداً في 1 محرم 1431 هـ/ 17 ديسمبر 2009.</p>",
+          "normalizedtitle": "مدرسة القبة الشرعية"
+        },
+        {
+          "type": "standard",
+          "title": "الهفوف",
+          "displaytitle": "<span class=\"mw-page-title-main\">الهفوف</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q27136",
+          "titles": {
+            "canonical": "الهفوف",
+            "normalized": "الهفوف",
+            "display": "<span class=\"mw-page-title-main\">الهفوف</span>"
+          },
+          "pageid": 35951,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Qasr_sahood.jpg/330px-Qasr_sahood.jpg",
+            "width": 320,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Qasr_sahood.jpg",
+            "width": 4000,
+            "height": 2667
+          },
+          "lang": "ar",
+          "dir": "rtl",
+          "revision": "71769927",
+          "tid": "2461d297-7c16-11f0-ba73-cf77d7f0a2a5",
+          "timestamp": "2025-08-18T09:31:39Z",
+          "description": "المركز الحضري الرئيسي في واحة الأحساء بالمنطقة الشرقية بالمملكة العربية السعودية",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81",
+              "revisions": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81?action=history",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81"
+            },
+            "mobile": {
+              "page": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81",
+              "revisions": "https://ar.wikipedia.org/wiki/Special:History/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81",
+              "edit": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81?action=edit",
+              "talk": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B4:%D8%A7%D9%84%D9%87%D9%81%D9%88%D9%81"
+            }
+          },
+          "extract": "الهُفُوف هي المركز الحضري الرئيسي في واحة الأحساء بالمنطقة الشرقية بالمملكة العربية السعودية. تشتهر أيضًا بكونها واحدة من أكبر منتجي التمور في العالم، وبأسواقها وقصورها القديمة.",
+          "extract_html": "<p><b>الهُفُوف</b> هي المركز الحضري الرئيسي في واحة الأحساء بالمنطقة الشرقية بالمملكة العربية السعودية. تشتهر أيضًا بكونها واحدة من أكبر منتجي التمور في العالم، وبأسواقها وقصورها القديمة.</p>",
+          "normalizedtitle": "الهفوف"
+        }
+      ],
+      "year": 1310
+    }
+  ]
+}
