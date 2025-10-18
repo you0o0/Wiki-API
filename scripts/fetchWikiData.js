@@ -18,11 +18,12 @@ const CATEGORIES = {
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
-// 🧩 دالة مساعدة لجلب صورة بديلة من المقالة
+// 🧩 جلب صورة بديلة من داخل المقال (لو مفيش صورة رئيسية)
 async function fetchFallbackImage(title) {
   const url = `https://ar.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(
     title
   )}&format=json&origin=*`;
+
   try {
     const res = await fetch(url);
     const data = await res.json();
@@ -38,7 +39,23 @@ async function fetchFallbackImage(title) {
   return null;
 }
 
-// 🧠 جلب المقالات للتصنيف
+// 🧠 جلب أول 5 سطور من نص المقال
+async function fetchFirstLines(title) {
+  const url = `https://ar.wikipedia.org/api/rest_v1/page/plain/${encodeURIComponent(
+    title
+  )}`;
+  try {
+    const res = await fetch(url);
+    const text = await res.text();
+    const lines = text.split("\n").filter((l) => l.trim().length > 0);
+    return lines.slice(0, 5).join(" ");
+  } catch (err) {
+    console.error("⚠️ خطأ في جلب نص المقال:", title, err.message);
+    return "لم يتم العثور على نص للمقالة.";
+  }
+}
+
+// 🧭 جلب المقالات للتصنيف
 async function fetchCategory(categoryAr, categoryEn) {
   console.log(`\n--- Processing category: ${categoryAr} -> ${categoryEn}.json`);
   const articles = [];
@@ -47,7 +64,7 @@ async function fetchCategory(categoryAr, categoryEn) {
   do {
     let url = `https://ar.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=categorymembers&gcmtitle=تصنيف:${encodeURIComponent(
       categoryAr
-    )}&gcmlimit=50&prop=extracts|pageimages&exintro=true&explaintext=true&piprop=thumbnail&pithumbsize=400`;
+    )}&gcmlimit=50&prop=pageimages&piprop=thumbnail&pithumbsize=400`;
 
     if (continueToken) url += `&gcmcontinue=${encodeURIComponent(continueToken)}`;
 
@@ -60,8 +77,7 @@ async function fetchCategory(categoryAr, categoryEn) {
       for (const page of Object.values(pages)) {
         if (page.title.startsWith("مستخدم:")) continue; // تجاهل صفحات المستخدمين
 
-        let description =
-          page.extract?.split("\n").slice(0, 4).join(" ") || "لا يوجد وصف متاح.";
+        const description = await fetchFirstLines(page.title);
         const image =
           page.thumbnail?.source || (await fetchFallbackImage(page.title));
 
@@ -71,10 +87,10 @@ async function fetchCategory(categoryAr, categoryEn) {
           image,
           url: `https://ar.wikipedia.org/wiki/${encodeURIComponent(page.title)}`
         });
+
+        await delay(300); // علشان نقلل الضغط على السيرفر
       }
     }
-
-    await delay(1000);
   } while (continueToken);
 
   console.log(`✅ Saved ${articles.length} articles for ${categoryAr}`);
@@ -82,7 +98,7 @@ async function fetchCategory(categoryAr, categoryEn) {
   await fs.outputJson(filePath, articles, { spaces: 2 });
 }
 
-// 🧭 المقالة المختارة لليوم (تلقائي)
+// 🌟 المقالة المختارة لليوم (بنفس المنهج)
 async function fetchFeaturedArticle() {
   const today = new Date();
   const year = today.getUTCFullYear();
@@ -94,38 +110,39 @@ async function fetchFeaturedArticle() {
     const res = await fetch(url);
     const data = await res.json();
     const article = data?.tfa;
-
-    if (article) {
-      const featured = {
-        title: article.title,
-        description: article.extract,
-        image: article.thumbnail?.source || null,
-        url: article.content_urls?.desktop?.page || null,
-        date: `${year}-${month}-${day}`
-      };
-      await fs.outputJson(`${OUTPUT_DIR}/featured/article.json`, featured, {
-        spaces: 2
-      });
-      console.log(`🌟 Featured article saved for ${year}-${month}-${day}`);
-    } else {
+    if (!article) {
       console.log("⚠️ No featured article found for today.");
+      return;
     }
+
+    const title = article.title;
+    let image = article.thumbnail?.source || null;
+    if (!image) image = await fetchFallbackImage(title);
+
+    const description = await fetchFirstLines(title);
+    const featured = {
+      title,
+      description,
+      image,
+      url: article.content_urls?.desktop?.page || null,
+      date: `${year}-${month}-${day}`
+    };
+
+    await fs.outputJson(`${OUTPUT_DIR}/featured/article.json`, featured, { spaces: 2 });
+    console.log(`🌟 Featured article saved for ${year}-${month}-${day}`);
   } catch (err) {
     console.error("⚠️ Error fetching featured article:", err);
   }
 }
 
-
-// 🚀 التنفيذ
+// 🚀 التنفيذ الكامل
 (async () => {
-  console.log("Start fetching Wikipedia data...");
+  console.log("🚀 بدء جلب بيانات ويكيبيديا...");
 
   for (const [ar, en] of Object.entries(CATEGORIES)) {
     await fetchCategory(ar, en);
   }
 
   await fetchFeaturedArticle();
-  console.log("✅ All done!");
+  console.log("✅ All Wikipedia data fetched successfully!");
 })();
-
-
