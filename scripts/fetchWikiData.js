@@ -10,7 +10,7 @@ const CATEGORIES = {
   جغرافيا: "Geography",
   رياضة: "Sports",
   طب: "Medicine",
-  صحة نفسية: "MentalHealth",
+  "صحة نفسية": "MentalHealth",
   بيئة: "Environment",
   تغذية: "Nutrition",
   سياحة: "Tourism",
