@@ -1,0 +1,31 @@
+name: Update Wikipedia Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # ⏰ كل 24 ساعة
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run fetch script
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --quiet && echo "✅ لا توجد تغييرات" || (git commit -m "🔄 تحديث بيانات ويكيبيديا" && git push)
